@@ -3,6 +3,7 @@
 ## Contents
 
 ## Requirements
+Java 7+ for tabula
 
 ## How to run
 
