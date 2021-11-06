@@ -1,0 +1,1180 @@
+,Course Code,Course Name,Institution,EOS,Mid,Level8,Test,Not All,AQA,New Comp
+0,AL033,Toxicology,ATHLONE IT,320.0,355.0,True,False,False,False,False
+1,AL035,Construction Technology and Management,ATHLONE IT,255.0,320.0,True,False,False,False,False
+2,AL050,Business,ATHLONE IT,250.0,320.0,True,False,False,False,False
+3,AL051,Accounting,ATHLONE IT,255.0,335.0,True,False,False,False,False
+4,AL052,Design (Visual Communications),ATHLONE IT,640.0,835.0,True,True,False,False,False
+5,AL053,Pharmaceutical Sciences,ATHLONE IT,,,True,False,False,False,False
+6,AL054,Social Care Practice,ATHLONE IT,310.0,340.0,True,False,False,False,False
+7,AL110,General Nursing,ATHLONE IT,350.0,370.0,True,False,True,False,False
+8,AL111,Mature Applicants General Nursing,ATHLONE IT,164.0,168.0,True,True,False,False,False
+9,AL112,Psychiatric Nursing,ATHLONE IT,360.0,390.0,True,False,False,False,False
+10,AL113,Mature Applicants Psychiatric Nursing,ATHLONE IT,157.0,163.0,True,True,False,False,False
+11,PC410,Humanities,CARLOW COLLEGE,275.0,325.0,True,False,False,False,False
+12,CW018,Business (Wexford),IT CARLOW,285.0,310.0,True,False,False,False,False
+13,CW028,Early Childhood Education and Care (Wexford),IT CARLOW,300.0,325.0,True,False,False,False,False
+14,CW038,Art (Wexford),IT CARLOW,700.0,890.0,True,True,False,False,False
+15,CW108,Biosciences with Bioforensics,IT CARLOW,300.0,340.0,True,False,False,False,False
+16,CW118,Biosciences with Biopharmaceuticals,IT CARLOW,280.0,325.0,True,False,False,False,False
+17,CW208,Computer Games Development,IT CARLOW,300.0,360.0,True,False,False,False,False
+18,CW238,Software Development,IT CARLOW,315.0,335.0,True,False,False,False,False
+19,CW438,Construction - Quantity Surveying,IT CARLOW,320.0,350.0,True,False,False,False,False
+20,CW448,Construction - Facilities Management,IT CARLOW,310.0,320.0,True,False,False,False,False
+21,CW708,Law,IT CARLOW,305.0,345.0,True,False,False,False,False
+22,CW728,Product Design Innovation,IT CARLOW,285.0,320.0,True,False,False,False,False
+23,CW748,Early Childhood Education and Care,IT CARLOW,310.0,345.0,True,False,False,False,False
+24,CW808,Communications and Public Relations,IT CARLOW,300.0,345.0,True,False,False,False,False
+25,CW818,Accounting,IT CARLOW,270.0,355.0,True,False,False,False,False
+26,CW828,International Business,IT CARLOW,275.0,295.0,True,False,False,False,False
+27,CW838,Marketing,IT CARLOW,270.0,325.0,True,False,False,False,False
+28,CW908,Business - Management,IT CARLOW,265.0,320.0,True,False,False,False,False
+29,CR105,Chemical and Process Engineering,CORK IT,350.0,450.0,True,False,False,False,False
+30,CR106,Software Development,CORK IT,215.0,320.0,True,False,False,False,False
+31,CR108,Mechanical Engineering,CORK IT,330.0,440.0,True,False,False,False,False
+32,CR109,Structural Engineering,CORK IT,380.0,445.0,True,False,False,False,False
+33,CR111,Computerised Instrument Systems,CORK IT,250.0,310.0,True,False,False,False,False
+34,CR112,Multimedia,CORK IT,375.0,405.0,True,False,False,False,False
+35,CR116,Software Development and Computer Networking,CORK IT,244.0,340.0,True,False,False,False,False
+36,CR121,Music (at CIT - Cork School of Music),CORK IT,865.0,1065.0,True,False,True,False,False
+37,CR150,Business Information Systems,CORK IT,320.0,350.0,True,False,False,False,False
+38,CR220,Fine Art and Ceramic Design,CORK IT,790.0,880.0,True,True,False,False,False
+39,CR310,IT Management,CORK IT,305.0,325.0,True,False,False,False,False
+40,CR330,Herbal Science,CORK IT,228.0,325.0,True,False,False,False,False
+41,CR340,Analytical Chemistry with Quality Assurance,CORK IT,320.0,330.0,True,False,False,False,False
+42,CR400,Accounting,CORK IT,355.0,405.0,True,False,False,False,False
+43,CR510,Sustainable Energy Technology,CORK IT,375.0,410.0,True,False,False,False,False
+44,CR520,Biomedical Engineering (Level 8),CORK IT,430.0,500.0,True,False,False,False,False
+45,CR560,Architectural Technology (Level 8),CORK IT,420.0,435.0,True,False,False,False,False
+46,CK101,Arts,UNIVERSITY COLLEGE CORK,335.0,395.0,True,False,False,False,False
+47,CK102,Social Science,UNIVERSITY COLLEGE CORK,360.0,390.0,True,False,False,False,False
+48,CK103,Music,UNIVERSITY COLLEGE CORK,380.0,395.0,True,True,True,False,False
+49,CK104,Arts with Music,UNIVERSITY COLLEGE CORK,450.0,480.0,True,True,False,False,False
+50,CK106,Applied Psychology,UNIVERSITY COLLEGE CORK,505.0,520.0,True,False,False,False,False
+51,CK111,Early Childhood Studies,UNIVERSITY COLLEGE CORK,335.0,375.0,True,False,False,False,False
+52,CK112,Drama and Theatre Studies,UNIVERSITY COLLEGE CORK,370.0,435.0,True,True,False,False,False
+53,CK114,Social Science (Youth and Community Work) - Mature Applicant,UNIVERSITY COLLEGE CORK,,,True,True,False,False,False
+54,CK115,Social Work - Mature Applicants only,UNIVERSITY COLLEGE CORK,,,True,True,False,False,False
+55,CK116,Sports Studies and Physical Education,UNIVERSITY COLLEGE CORK,465.0,485.0,True,False,False,False,False
+56,CK201,Commerce,UNIVERSITY COLLEGE CORK,445.0,465.0,True,False,False,False,False
+57,CK202,Accounting,UNIVERSITY COLLEGE CORK,485.0,515.0,True,False,True,False,False
+58,CK203,Business Information Systems,UNIVERSITY COLLEGE CORK,385.0,430.0,True,False,False,False,False
+59,CK204,Finance,UNIVERSITY COLLEGE CORK,455.0,490.0,True,False,False,False,False
+60,CK205,Commerce (International) with French,UNIVERSITY COLLEGE CORK,465.0,490.0,True,False,False,False,False
+61,CK206,Commerce (International) with German,UNIVERSITY COLLEGE CORK,310.0,420.0,True,False,False,False,False
+62,CK207,Commerce (International) with Italian,UNIVERSITY COLLEGE CORK,315.0,370.0,True,False,False,False,False
+63,CK208,Commerce (International) with Spanish,UNIVERSITY COLLEGE CORK,380.0,420.0,True,False,False,False,False
+64,CK209,Commerce (International) with Irish,UNIVERSITY COLLEGE CORK,415.0,450.0,True,False,False,False,False
+65,CK210,Government,UNIVERSITY COLLEGE CORK,330.0,370.0,True,False,False,False,False
+66,CK211,Commerce (International) with Chinese Studies,UNIVERSITY COLLEGE CORK,335.0,430.0,True,False,False,False,False
+67,CK301,Law - Three-years,UNIVERSITY COLLEGE CORK,500.0,525.0,True,False,False,False,False
+68,CK302,Law and French,UNIVERSITY COLLEGE CORK,505.0,540.0,True,False,False,False,False
+69,CK303,Law and German,UNIVERSITY COLLEGE CORK,450.0,490.0,True,False,False,False,False
+70,CK304,Law and Irish,UNIVERSITY COLLEGE CORK,530.0,560.0,True,False,False,False,False
+71,CK401,Computer Science,UNIVERSITY COLLEGE CORK,300.0,355.0,True,False,False,False,False
+72,CK402,Biological and Chemical Sciences,UNIVERSITY COLLEGE CORK,365.0,460.0,True,False,False,False,False
+73,CK404,Environmental and Earth System Sciences,UNIVERSITY COLLEGE CORK,360.0,425.0,True,False,False,False,False
+74,CK405,Genetics,UNIVERSITY COLLEGE CORK,345.0,415.0,True,False,False,False,False
+75,CK406,Chemical Sciences,UNIVERSITY COLLEGE CORK,305.0,415.0,True,False,False,False,False
+76,CK407,Mathematical Sciences,UNIVERSITY COLLEGE CORK,480.0,530.0,True,False,True,False,False
+77,CK408,Physics and Astrophysics,UNIVERSITY COLLEGE CORK,440.0,525.0,True,False,False,False,False
+78,CK501,Food Business,UNIVERSITY COLLEGE CORK,300.0,340.0,True,False,False,False,False
+79,CK504,Nutritional Sciences,UNIVERSITY COLLEGE CORK,480.0,500.0,True,False,True,False,False
+80,CK505,Food Science,UNIVERSITY COLLEGE CORK,300.0,355.0,True,False,False,False,False
+81,CK506,International Development and Food Policy,UNIVERSITY COLLEGE CORK,335.0,415.0,True,False,False,False,False
+82,CK601,Process and Chemical Engineering,UNIVERSITY COLLEGE CORK,485.0,510.0,True,False,False,False,False
+83,CK602,Civil and Environmental Engineering,UNIVERSITY COLLEGE CORK,500.0,530.0,True,False,False,False,False
+84,CK603,Energy Engineering,UNIVERSITY COLLEGE CORK,535.0,555.0,True,False,False,False,False
+85,CK605,Electrical and Electronic Engineering,UNIVERSITY COLLEGE CORK,300.0,460.0,True,False,False,False,False
+86,CK606,Architecture - Joint UCC and CIT programme,UNIVERSITY COLLEGE CORK,495.0,510.0,True,False,False,False,False
+87,CK701,Medicine,UNIVERSITY COLLEGE CORK,570.0,590.0,True,False,True,False,False
+88,CK702,Dentistry,UNIVERSITY COLLEGE CORK,565.0,570.0,True,False,True,False,False
+89,CK703,Pharmacy,UNIVERSITY COLLEGE CORK,550.0,565.0,True,False,True,False,False
+90,CK704,Occupational Therapy,UNIVERSITY COLLEGE CORK,520.0,535.0,True,False,False,False,False
+91,CK705,Speech and Language Therapy,UNIVERSITY COLLEGE CORK,520.0,545.0,True,False,False,False,False
+92,CK706,Public Health and Health Promotion,UNIVERSITY COLLEGE CORK,410.0,450.0,True,False,False,False,False
+93,CK710,General Nursing,UNIVERSITY COLLEGE CORK,395.0,435.0,True,False,True,False,False
+94,CK711,Mature Applicants General Nursing,UNIVERSITY COLLEGE CORK,160.0,167.0,True,True,True,False,False
+95,CK712,Children's and General Nursing (Integrated),UNIVERSITY COLLEGE CORK,490.0,500.0,True,False,False,False,False
+96,CK713,Mature Applicants Children's and General Nursing (Integrated,UNIVERSITY COLLEGE CORK,174.0,183.0,True,True,False,False,False
+97,CK720,Psychiatric Nursing,UNIVERSITY COLLEGE CORK,340.0,380.0,True,False,False,False,False
+98,CK721,Mature Applicants Psychiatric Nursing,UNIVERSITY COLLEGE CORK,134.0,151.0,True,True,False,False,False
+99,CK730,Intellectual Disability Nursing,UNIVERSITY COLLEGE CORK,375.0,390.0,True,False,True,False,False
+100,CK731,Mature Applicants Intellectual Disability Nursing,UNIVERSITY COLLEGE CORK,131.0,151.0,True,True,False,False,False
+101,CK740,Midwifery,UNIVERSITY COLLEGE CORK,425.0,460.0,True,False,False,False,False
+102,CK741,Mature Applicants Midwifery,UNIVERSITY COLLEGE CORK,174.0,187.0,True,True,False,False,False
+103,CK791,Medicine - Graduate Entry,UNIVERSITY COLLEGE CORK,56.0,57.0,True,True,True,False,False
+104,AH001,Theology and Philosophy,ALL HALLOWS,250.0,300.0,True,False,False,False,False
+105,AH002,Theology and Psychology,ALL HALLOWS,300.0,320.0,True,False,False,False,False
+106,AH003,Theology and English Literature,ALL HALLOWS,280.0,310.0,True,False,False,False,False
+107,AC120,International Business,AMERICAN COLLEGE,,,True,True,False,False,False
+108,AC141,Behavioural Science (Psychology),AMERICAN COLLEGE,260.0,340.0,True,False,False,False,False
+109,CE001,Education - Primary Teaching,CHURCH OF IRELAND COLLEGE,395.0,440.0,True,False,True,False,False
+110,CM001,Education - Primary Teaching,COLAISTE MHUIRE MARINO,465.0,470.0,True,False,True,False,False
+111,CM002,Education - Primary Teaching - Gaeltacht Applicants,COLAISTE MHUIRE MARINO,425.0,445.0,True,False,False,False,False
+112,DB512,Business Studies,DUBLIN BUSINESS SCHOOL,190.0,315.0,True,False,False,False,False
+113,DB514,Business and Law,DUBLIN BUSINESS SCHOOL,240.0,330.0,True,False,False,False,False
+114,DB515,Business with Human Resource Management,DUBLIN BUSINESS SCHOOL,225.0,320.0,True,False,False,False,False
+115,DB516,Business with Financial Services,DUBLIN BUSINESS SCHOOL,240.0,310.0,True,False,False,False,False
+116,DB517,Marketing with Event Management,DUBLIN BUSINESS SCHOOL,210.0,310.0,True,False,False,False,False
+117,DB519,Business Management with Leisure and Recreation,DUBLIN BUSINESS SCHOOL,210.0,330.0,True,False,False,False,False
+118,DB521,Accounting and Finance,DUBLIN BUSINESS SCHOOL,220.0,330.0,True,False,False,False,False
+119,DB531,Marketing,DUBLIN BUSINESS SCHOOL,270.0,330.0,True,False,False,False,False
+120,DB553,"Film, Literature and Drama",DUBLIN BUSINESS SCHOOL,205.0,325.0,True,False,False,False,False
+121,DB561,Arts (General),DUBLIN BUSINESS SCHOOL,220.0,290.0,True,False,False,False,False
+122,DB562,Psychology,DUBLIN BUSINESS SCHOOL,185.0,340.0,True,False,False,False,False
+123,DB564,Media and Cultural Studies,DUBLIN BUSINESS SCHOOL,240.0,310.0,True,False,False,False,False
+124,DB565,Journalism,DUBLIN BUSINESS SCHOOL,230.0,325.0,True,False,False,False,False
+125,DB566,Social Science,DUBLIN BUSINESS SCHOOL,220.0,300.0,True,False,False,False,False
+126,DB568,Law,DUBLIN BUSINESS SCHOOL,235.0,340.0,True,False,False,False,False
+127,DB569,Business and Psychology,DUBLIN BUSINESS SCHOOL,250.0,315.0,True,False,False,False,False
+128,DC111,Business Studies,DUBLIN CITY UNIVERSITY,425.0,445.0,True,False,False,False,False
+129,DC112,European Business (French),DUBLIN CITY UNIVERSITY,420.0,435.0,True,False,False,False,False
+130,DC113,European Business (German),DUBLIN CITY UNIVERSITY,375.0,410.0,True,False,False,False,False
+131,DC114,European Business (Spanish),DUBLIN CITY UNIVERSITY,405.0,435.0,True,False,False,False,False
+132,DC115,Accounting and Finance,DUBLIN CITY UNIVERSITY,435.0,470.0,True,False,False,False,False
+133,DC116,European Business (Transatlantic Studies),DUBLIN CITY UNIVERSITY,505.0,520.0,True,False,False,False,False
+134,DC118,Gnó agus Gaeilge,DUBLIN CITY UNIVERSITY,390.0,415.0,True,False,False,False,False
+135,DC120,Enterprise Computing,DUBLIN CITY UNIVERSITY,300.0,345.0,True,False,False,False,False
+136,DC121,Computer Applications,DUBLIN CITY UNIVERSITY,300.0,345.0,True,False,False,False,False
+137,DC126,Actuarial Mathematics,DUBLIN CITY UNIVERSITY,500.0,530.0,True,False,False,False,False
+138,DC127,"Actuarial, Financial and Mathematical Sciences",DUBLIN CITY UNIVERSITY,450.0,480.0,True,False,False,False,False
+139,DC131,Communication Studies,DUBLIN CITY UNIVERSITY,430.0,455.0,True,False,False,False,False
+140,DC132,Journalism,DUBLIN CITY UNIVERSITY,475.0,500.0,True,False,False,False,False
+141,DC133,Multimedia,DUBLIN CITY UNIVERSITY,400.0,420.0,True,False,False,False,False
+142,DC146,International Business and Languages (French/German),DUBLIN CITY UNIVERSITY,335.0,385.0,True,False,False,False,False
+143,DC147,International Business and Languages (French/Spanish),DUBLIN CITY UNIVERSITY,360.0,400.0,True,False,False,False,False
+144,DC148,International Business and Languages (German/Spanish),DUBLIN CITY UNIVERSITY,350.0,405.0,True,False,False,False,False
+145,DC149,International Business and Languages (Japanese),DUBLIN CITY UNIVERSITY,355.0,410.0,True,False,False,False,False
+146,DC155,Applied Language and Intercultural Studies,DUBLIN CITY UNIVERSITY,345.0,430.0,True,False,False,False,False
+147,DC156,Languages for International Communication - English Stream,DUBLIN CITY UNIVERSITY,260.0,370.0,True,False,False,False,False
+148,DC161,Analytical Science,DUBLIN CITY UNIVERSITY,365.0,395.0,True,False,False,False,False
+149,DC162,Chemical and Pharmaceutical Sciences,DUBLIN CITY UNIVERSITY,360.0,400.0,True,False,False,False,False
+150,DC165,Science International Programme,DUBLIN CITY UNIVERSITY,395.0,425.0,True,False,False,False,False
+151,DC166,Environmental Science and Health,DUBLIN CITY UNIVERSITY,360.0,405.0,True,False,False,False,False
+152,DC167,Physics with Astronomy,DUBLIN CITY UNIVERSITY,410.0,420.0,True,False,False,False,False
+153,DC168,Genetics and Cell Biology,DUBLIN CITY UNIVERSITY,385.0,410.0,True,False,False,False,False
+154,DC171,Applied Physics,DUBLIN CITY UNIVERSITY,375.0,405.0,True,False,False,False,False
+155,DC173,Physics with Biomedical Sciences,DUBLIN CITY UNIVERSITY,430.0,475.0,True,False,False,False,False
+156,DC181,Biotechnology,DUBLIN CITY UNIVERSITY,360.0,400.0,True,False,False,False,False
+157,DC191,Electronic Engineering,DUBLIN CITY UNIVERSITY,255.0,325.0,True,False,False,False,False
+158,DC192,Information and Communications Engineering,DUBLIN CITY UNIVERSITY,425.0,430.0,True,False,False,False,False
+159,DC193,Mechatronics Engineering,DUBLIN CITY UNIVERSITY,235.0,365.0,True,False,False,False,False
+160,DC195,Mechanical and Manufacturing Engineering,DUBLIN CITY UNIVERSITY,335.0,375.0,True,False,False,False,False
+161,DC196,Manufacturing Engineering with Business Studies,DUBLIN CITY UNIVERSITY,340.0,380.0,True,False,False,False,False
+162,DC197,Biomedical Engineering,DUBLIN CITY UNIVERSITY,345.0,395.0,True,False,False,False,False
+163,DC199,Digital Media Engineering,DUBLIN CITY UNIVERSITY,385.0,450.0,True,False,False,False,False
+164,DC200,Common Entry into Engineering (Undenominated Entry),DUBLIN CITY UNIVERSITY,280.0,440.0,True,False,False,False,False
+165,DC201,Common Entry into Science (Undenominated Entry),DUBLIN CITY UNIVERSITY,360.0,410.0,True,False,False,False,False
+166,DC202,Sport Science and Health,DUBLIN CITY UNIVERSITY,445.0,455.0,True,False,False,False,False
+167,DC203,Science Education,DUBLIN CITY UNIVERSITY,395.0,435.0,True,False,False,False,False
+168,DC204,Athletic Therapy and Training,DUBLIN CITY UNIVERSITY,470.0,490.0,True,False,False,False,False
+169,DC205,Physical Education with Biology,DUBLIN CITY UNIVERSITY,475.0,495.0,True,False,True,False,False
+170,DC211,Music Performance at the Royal Irish Academy of Music,DUBLIN CITY UNIVERSITY,320.0,430.0,True,True,False,False,False
+171,DC212,Composition at the Royal Irish Academy of Music,DUBLIN CITY UNIVERSITY,335.0,420.0,True,True,False,False,False
+172,DC215,General Nursing,DUBLIN CITY UNIVERSITY,365.0,385.0,True,False,False,False,False
+173,DC216,Psychiatric Nursing,DUBLIN CITY UNIVERSITY,315.0,330.0,True,False,False,False,False
+174,DC217,Intellectual Disability Nursing,DUBLIN CITY UNIVERSITY,300.0,325.0,True,False,True,False,False
+175,DC218,Children's and General Nursing (Integrated),DUBLIN CITY UNIVERSITY,430.0,450.0,True,False,False,False,False
+176,DC225,Mature Applicants General Nursing,DUBLIN CITY UNIVERSITY,153.0,161.0,True,True,True,False,False
+177,DC226,Mature Applicants Psychiatric Nursing,DUBLIN CITY UNIVERSITY,135.0,150.0,True,True,False,False,False
+178,DC227,Mature Applicants Intellectual Disability Nursing,DUBLIN CITY UNIVERSITY,130.0,143.0,True,True,False,False,False
+179,DC228,Mature Applicants Children's and General Nursing (Integrated),DUBLIN CITY UNIVERSITY,161.0,166.0,True,True,False,False,False
+180,DC230,"Economics, Politics and Law",DUBLIN CITY UNIVERSITY,440.0,455.0,True,False,False,False,False
+181,DC231,International Relations,DUBLIN CITY UNIVERSITY,415.0,435.0,True,False,False,False,False
+182,DC235,Education and Training,DUBLIN CITY UNIVERSITY,325.0,355.0,True,False,True,False,False
+183,DC236,Quantitative Finance,DUBLIN CITY UNIVERSITY,470.0,485.0,True,False,False,False,False
+184,DC238,Contemporary Culture and Society,DUBLIN CITY UNIVERSITY,340.0,370.0,True,False,False,False,False
+185,DC239,Gaeilge agus Iriseoireacht/Irish and Journalism,DUBLIN CITY UNIVERSITY,445.0,495.0,True,False,False,False,False
+186,DC240,"Marketing, Innovation and Technology",DUBLIN CITY UNIVERSITY,400.0,410.0,True,False,False,False,False
+187,DT001,Product Design,DUBLIN INSTITUTE OF TECHNOLOGY,360.0,385.0,True,False,False,False,False
+188,DT021,Electrical and Electronic Engineering,DUBLIN INSTITUTE OF TECHNOLOGY,350.0,434.0,True,False,False,False,False
+189,DT023,Manufacturing and Design Engineering,DUBLIN INSTITUTE OF TECHNOLOGY,405.0,440.0,True,False,False,False,False
+190,DT025,Engineering,DUBLIN INSTITUTE OF TECHNOLOGY,380.0,435.0,True,False,False,False,False
+191,DT028,Transport Operations and Technology,DUBLIN INSTITUTE OF TECHNOLOGY,235.0,320.0,True,False,False,False,False
+192,DT081,Computer & Communications Engineering,DUBLIN INSTITUTE OF TECHNOLOGY,335.0,385.0,True,False,False,False,False
+193,DT101,Architecture,DUBLIN INSTITUTE OF TECHNOLOGY,532.0,590.0,True,True,False,False,False
+194,DT106,Planning and Environmental Management,DUBLIN INSTITUTE OF TECHNOLOGY,375.0,400.0,True,False,False,False,False
+195,DT110,Property Economics (Valuation Surveying),DUBLIN INSTITUTE OF TECHNOLOGY,360.0,395.0,True,False,False,False,False
+196,DT111,Construction Economics and Management (Quantity Surveying),DUBLIN INSTITUTE OF TECHNOLOGY,400.0,435.0,True,False,False,False,False
+197,DT112,Geomatics,DUBLIN INSTITUTE OF TECHNOLOGY,250.0,365.0,True,False,False,False,False
+198,DT117,Construction Management,DUBLIN INSTITUTE OF TECHNOLOGY,340.0,370.0,True,False,False,False,False
+199,DT203,Forensic and Environmental Analysis,DUBLIN INSTITUTE OF TECHNOLOGY,305.0,360.0,True,False,False,False,False
+200,DT204,Biomedical Science,DUBLIN INSTITUTE OF TECHNOLOGY,375.0,445.0,True,False,False,False,False
+201,DT205,Mathematical Sciences,DUBLIN INSTITUTE OF TECHNOLOGY,240.0,345.0,True,False,False,False,False
+202,DT211,Computing,DUBLIN INSTITUTE OF TECHNOLOGY,235.0,310.0,True,False,False,False,False
+203,DT222,Physics Technology,DUBLIN INSTITUTE OF TECHNOLOGY,275.0,340.0,True,False,False,False,False
+204,DT223,Human Nutrition and Dietetics,DUBLIN INSTITUTE OF TECHNOLOGY,530.0,550.0,True,False,True,False,False
+205,DT224,Optometry,DUBLIN INSTITUTE OF TECHNOLOGY,520.0,540.0,True,False,True,False,False
+206,DT227,Science with Nanotechnology,DUBLIN INSTITUTE OF TECHNOLOGY,295.0,365.0,True,False,False,False,False
+207,DT228,Computer Science,DUBLIN INSTITUTE OF TECHNOLOGY,230.0,315.0,True,False,False,False,False
+208,DT229,Clinical Measurement,DUBLIN INSTITUTE OF TECHNOLOGY,315.0,420.0,True,False,False,False,False
+209,DT235,Physics with Medical Physics and Bioengineering,DUBLIN INSTITUTE OF TECHNOLOGY,285.0,370.0,True,False,False,False,False
+210,DT341,Marketing,DUBLIN INSTITUTE OF TECHNOLOGY,385.0,400.0,True,False,False,False,False
+211,DT343,Retail and Services Management,DUBLIN INSTITUTE OF TECHNOLOGY,340.0,365.0,True,False,False,False,False
+212,DT354,Business Computing,DUBLIN INSTITUTE OF TECHNOLOGY,330.0,355.0,True,False,False,False,False
+213,DT358,Logistics and Supply Chain Management,DUBLIN INSTITUTE OF TECHNOLOGY,250.0,315.0,True,False,False,False,False
+214,DT365,Business and Management,DUBLIN INSTITUTE OF TECHNOLOGY,410.0,420.0,True,False,False,False,False
+215,DT366,Accounting and Finance,DUBLIN INSTITUTE OF TECHNOLOGY,425.0,440.0,True,False,False,False,False
+216,DT401,Hospitality Management,DUBLIN INSTITUTE OF TECHNOLOGY,260.0,330.0,True,False,False,False,False
+217,DT407,Culinary Arts,DUBLIN INSTITUTE OF TECHNOLOGY,350.0,385.0,True,False,False,False,False
+218,DT412,Tourism Marketing,DUBLIN INSTITUTE OF TECHNOLOGY,265.0,335.0,True,False,False,False,False
+219,DT413,Event Management,DUBLIN INSTITUTE OF TECHNOLOGY,405.0,430.0,True,False,False,False,False
+220,DT416,Food and Beverage Culinary Management,DUBLIN INSTITUTE OF TECHNOLOGY,245.0,320.0,True,False,False,False,False
+221,DT417,Bar Studies (Management and Entrepreneurship),DUBLIN INSTITUTE OF TECHNOLOGY,210.0,305.0,True,False,False,False,False
+222,DT420,Nutraceuticals for Health and Nutrition,DUBLIN INSTITUTE OF TECHNOLOGY,345.0,395.0,True,False,False,False,False
+223,DT480,Food Technology/Pharmaceutical Technology,DUBLIN INSTITUTE OF TECHNOLOGY,195.0,315.0,True,False,False,False,False
+224,DT491,Environmental Health,DUBLIN INSTITUTE OF TECHNOLOGY,340.0,380.0,True,False,False,False,False
+225,DT501,Music,DUBLIN INSTITUTE OF TECHNOLOGY,375.0,515.0,True,True,False,False,False
+226,DT544,Design - Interior + Furniture,DUBLIN INSTITUTE OF TECHNOLOGY,500.0,655.0,True,True,False,False,False
+227,DT545,Design - Visual Communication,DUBLIN INSTITUTE OF TECHNOLOGY,690.0,805.0,True,True,False,False,False
+228,DT546,Fine Art,DUBLIN INSTITUTE OF TECHNOLOGY,660.0,835.0,True,True,False,False,False
+229,DT552,Media Arts,DUBLIN INSTITUTE OF TECHNOLOGY,445.0,475.0,True,False,False,False,False
+230,DT553,Journalism,DUBLIN INSTITUTE OF TECHNOLOGY,445.0,455.0,True,False,False,False,False
+231,DT555,International Business and Languages - (French),DUBLIN INSTITUTE OF TECHNOLOGY,390.0,415.0,True,False,False,False,False
+232,DT556,International Business and Languages - (German),DUBLIN INSTITUTE OF TECHNOLOGY,325.0,350.0,True,False,True,False,False
+233,DT557,International Business and Languages - (Spanish),DUBLIN INSTITUTE OF TECHNOLOGY,330.0,370.0,True,False,False,False,False
+234,DT559,Photography,DUBLIN INSTITUTE OF TECHNOLOGY,635.0,700.0,True,True,False,False,False
+235,DT564,International Business and Languages - (Italian),DUBLIN INSTITUTE OF TECHNOLOGY,310.0,335.0,True,False,False,False,False
+236,DT565,Chinese and International Business,DUBLIN INSTITUTE OF TECHNOLOGY,325.0,375.0,True,False,False,False,False
+237,DT571,Social Care,DUBLIN INSTITUTE OF TECHNOLOGY,400.0,430.0,True,False,False,False,False
+238,DT572,Early Childhood Education,DUBLIN INSTITUTE OF TECHNOLOGY,385.0,410.0,True,False,False,False,False
+239,DT582,Journalism with a language,DUBLIN INSTITUTE OF TECHNOLOGY,400.0,425.0,True,False,False,False,False
+240,DL041,Animation,DUN LAOGHAIRE IADT,635.0,849.0,True,True,False,False,False
+241,DL042,Photography,DUN LAOGHAIRE IADT,819.0,920.0,True,True,False,False,False
+242,DL043,Visual Communications,DUN LAOGHAIRE IADT,560.0,852.0,True,True,False,False,False
+243,DL044,Visual Arts Practice (Fine Art),DUN LAOGHAIRE IADT,440.0,789.0,True,True,False,False,False
+244,DL045,Film and Television Production,DUN LAOGHAIRE IADT,845.0,960.0,True,True,False,False,False
+245,DL046,"Modelmaking, Design and Digital Effects",DUN LAOGHAIRE IADT,560.0,905.0,True,True,False,False,False
+246,DL141,Applied Psychology,DUN LAOGHAIRE IADT,300.0,355.0,True,False,False,False,False
+247,DL143,Multimedia Systems/Web Engineering,DUN LAOGHAIRE IADT,245.0,305.0,True,False,False,False,False
+248,DL241,"English, Media and Cultural Studies",DUN LAOGHAIRE IADT,350.0,400.0,True,False,False,False,False
+249,DL242,Business Studies and Arts Management,DUN LAOGHAIRE IADT,255.0,340.0,True,False,False,False,False
+250,DL245,Business Studies - Entrepreneurship,DUN LAOGHAIRE IADT,250.0,320.0,True,False,False,False,False
+251,FR001,Education - Primary Teaching,FROEBEL COLLEGE,460.0,465.0,True,False,True,False,False
+252,FR002,Education - Primary Teaching - Gaeltacht Applicants,FROEBEL COLLEGE,420.0,420.0,True,False,False,False,False
+253,GC200,Business Studies,GRIFFITH COLLEGE DUBLIN,325.0,355.0,True,False,False,False,False
+254,GC201,Accounting and Finance,GRIFFITH COLLEGE DUBLIN,,,True,False,False,False,False
+255,GC203,Law,GRIFFITH COLLEGE DUBLIN,215.0,370.0,True,False,False,False,False
+256,GC400,Business Studies,GRIFFITH COLLEGE DUBLIN,245.0,310.0,True,False,False,False,False
+257,GC401,Accounting and Finance,GRIFFITH COLLEGE DUBLIN,255.0,305.0,True,False,False,False,False
+258,GC403,Law,GRIFFITH COLLEGE DUBLIN,250.0,340.0,True,False,False,False,False
+259,GC404,Business and Law,GRIFFITH COLLEGE DUBLIN,270.0,345.0,True,False,False,False,False
+260,GC405,International Hospitality Management,GRIFFITH COLLEGE DUBLIN,230.0,345.0,True,False,False,False,False
+261,GC430,Computing Science,GRIFFITH COLLEGE DUBLIN,240.0,285.0,True,False,False,False,False
+262,GC450,Journalism and Visual Media,GRIFFITH COLLEGE DUBLIN,245.0,335.0,True,False,False,False,False
+263,GC489,Interior Architecture,GRIFFITH COLLEGE DUBLIN,,325.0,True,False,False,True,False
+264,GC494,Fashion Design (Level 8),GRIFFITH COLLEGE DUBLIN,280.0,400.0,True,True,False,False,False
+265,BN101,Business,IT BLANCHARDSTOWN,215.0,305.0,True,False,False,False,False
+266,BN102,Business with Information Technology and a Language,IT BLANCHARDSTOWN,290.0,310.0,True,False,False,False,False
+267,BN103,Business and Information Technology,IT BLANCHARDSTOWN,280.0,330.0,True,False,False,False,False
+268,BN104,Computing (Information Technology),IT BLANCHARDSTOWN,225.0,305.0,True,False,False,False,False
+269,BN105,Engineering (Mechatronics),IT BLANCHARDSTOWN,205.0,310.0,True,False,False,False,False
+270,BN106,Engineering (Computer Engineering),IT BLANCHARDSTOWN,240.0,295.0,True,False,False,False,False
+271,BN107,Applied Social Studies in Social Care,IT BLANCHARDSTOWN,320.0,355.0,True,False,False,False,False
+272,BN108,"Engineering (options: computer engineering, mechatronics)",IT BLANCHARDSTOWN,215.0,320.0,True,False,False,False,False
+273,BN109,"Business (business, IT, language, intl business, accounting & finan",IT BLANCHARDSTOWN,250.0,305.0,True,False,False,False,False
+274,BN110,International Business,IT BLANCHARDSTOWN,255.0,320.0,True,False,False,False,False
+275,BN111,Sports Management and Coaching,IT BLANCHARDSTOWN,260.0,325.0,True,False,False,False,False
+276,BN112,Creative Digital Media (Level 8),IT BLANCHARDSTOWN,240.0,310.0,True,False,False,False,False
+277,TA021,Arts - European Studies,IT TALLAGHT,180.0,310.0,True,False,False,False,False
+278,TA022,Arts - Creative Digital Media,IT TALLAGHT,315.0,355.0,True,False,False,False,False
+279,TA023,Arts - Advertising and Marketing Communications,IT TALLAGHT,250.0,325.0,True,False,False,False,False
+280,TA121,Business - Accounting,IT TALLAGHT,260.0,320.0,True,False,False,False,False
+281,TA122,Business - Management,IT TALLAGHT,260.0,325.0,True,False,False,False,False
+282,TA123,Business - Marketing Management,IT TALLAGHT,245.0,310.0,True,False,False,False,False
+283,TA321,Science - Pharmaceutical Science,IT TALLAGHT,210.0,305.0,True,False,False,False,False
+284,TA322,Science - Computing,IT TALLAGHT,225.0,310.0,True,False,False,False,False
+285,TA323,Science - Information Technology Management,IT TALLAGHT,250.0,325.0,True,False,False,False,False
+286,TA325,Science - Bioanalytical Science,IT TALLAGHT,305.0,340.0,True,False,False,False,False
+287,MD201,"Religion, Education and English - second level teaching",MATER DEI,400.0,420.0,True,False,False,False,False
+288,MD301,"Religion, Education and History - second level teaching",MATER DEI,390.0,410.0,True,False,False,False,False
+289,MD401,"Religion, Education and Music - second level teaching",MATER DEI,360.0,385.0,True,True,False,False,False
+290,MD500,Irish Studies and Religious Studies - Arts,MATER DEI,315.0,355.0,True,False,False,False,False
+291,PT018,"Theology, Spirituality and Pastoral Ministry - Mature",MILLTOWN INSTITUTE,,,True,True,False,False,False
+292,AD012,Industrial Design,NATIONAL COLLEGE of ART and DESIGN,,,True,True,False,False,False
+293,AD111,1st Year (Core),NATIONAL COLLEGE of ART and DESIGN,,,True,True,False,False,False
+294,NC001,Accounting and Human Resource Management,NATIONAL COLLEGE of IRELAND,290.0,350.0,True,False,False,False,False
+295,NC003,Software Systems,NATIONAL COLLEGE of IRELAND,250.0,295.0,True,False,False,False,False
+296,NC004,Business Information Systems,NATIONAL COLLEGE of IRELAND,245.0,305.0,True,False,False,False,False
+297,NC005,Human Resource Management,NATIONAL COLLEGE of IRELAND,290.0,330.0,True,False,False,False,False
+298,NC006,Accounting,NATIONAL COLLEGE of IRELAND,290.0,345.0,True,False,False,False,False
+299,NC007,Financial Services,NATIONAL COLLEGE of IRELAND,290.0,350.0,True,False,False,False,False
+300,NC011,Accounting and Human Resource Management - ABP Applicants,NATIONAL COLLEGE of IRELAND,265.0,265.0,True,False,False,False,False
+301,NC013,Software Systems - Area Based Partnership Applicants,NATIONAL COLLEGE of IRELAND,285.0,285.0,True,False,False,False,False
+302,NC014,Business Information Systems - Area Based Partnership,NATIONAL COLLEGE of IRELAND,,,True,False,False,False,False
+303,NC015,Human Resource Management - Area Based Partnership,NATIONAL COLLEGE of IRELAND,,,True,False,False,False,False
+304,NC016,Accounting - Area Based Partnership Applicants,NATIONAL COLLEGE of IRELAND,240.0,240.0,True,False,False,False,False
+305,NC017,Financial Services - Area Based Partnership Applicants,NATIONAL COLLEGE of IRELAND,,,True,False,False,False,False
+306,PB250,Law,PORTOBELLO COLLEGE,235.0,320.0,True,False,False,False,False
+307,PB251,Accounting and Finance,PORTOBELLO COLLEGE,290.0,300.0,True,False,False,False,False
+308,PB253,Business Studies,PORTOBELLO COLLEGE,195.0,320.0,True,False,False,False,False
+309,PB254,Marketing,PORTOBELLO COLLEGE,235.0,235.0,True,False,False,False,False
+310,RC001,Medicine,ROYAL COLLEGE OF SURGEONS,565.0,570.0,True,False,True,False,False
+311,RC004,Physiotherapy,ROYAL COLLEGE OF SURGEONS,500.0,510.0,True,False,False,False,False
+312,RC005,Pharmacy,ROYAL COLLEGE OF SURGEONS,540.0,545.0,True,False,True,False,False
+313,RC010,General Nursing,ROYAL COLLEGE OF SURGEONS,,,True,False,False,False,False
+314,RC101,Medicine - Graduate Entry,ROYAL COLLEGE OF SURGEONS,58.0,62.0,True,True,False,False,False
+315,PD101,Education - Primary Teaching,ST PATRICK'S DRUMCONDRA,470.0,490.0,True,False,True,False,False
+316,PD102,Education - Primary Teaching - Gaeltacht Applicants,ST PATRICK'S DRUMCONDRA,430.0,465.0,True,False,False,False,False
+317,PD103,Arts/Humanities,ST PATRICK'S DRUMCONDRA,425.0,440.0,True,False,True,False,False
+318,TR002,Music,TRINITY COLLEGE DUBLIN,435.0,480.0,True,False,True,False,False
+319,TR003,History,TRINITY COLLEGE DUBLIN,450.0,495.0,True,False,True,False,False
+320,TR004,Law,TRINITY COLLEGE DUBLIN,530.0,560.0,True,False,True,False,False
+321,TR005,Philosophy,TRINITY COLLEGE DUBLIN,430.0,470.0,True,False,True,False,False
+322,TR006,Psychology,TRINITY COLLEGE DUBLIN,535.0,560.0,True,False,False,False,False
+323,TR007,Clinical Speech and Language Studies,TRINITY COLLEGE DUBLIN,510.0,530.0,True,False,True,False,False
+324,TR008,Religions and Theology,TRINITY COLLEGE DUBLIN,335.0,430.0,True,False,False,False,False
+325,TR009,Music Education,TRINITY COLLEGE DUBLIN,465.0,490.0,True,False,True,False,False
+326,TR010,"Computer Science, Linguistics and German",TRINITY COLLEGE DUBLIN,445.0,445.0,True,False,False,False,False
+327,TR011,"Computer Science, Linguistics and French",TRINITY COLLEGE DUBLIN,430.0,430.0,True,False,False,False,False
+328,TR012,History and Political Science,TRINITY COLLEGE DUBLIN,500.0,525.0,True,False,False,False,False
+329,TR013,"Computer Science, Linguistics and Irish",TRINITY COLLEGE DUBLIN,,,True,False,False,False,False
+330,TR014,Philosophy and Political Science,TRINITY COLLEGE DUBLIN,470.0,510.0,True,False,False,False,False
+331,TR015,"Philosophy, Political Science, Economics and Sociology",TRINITY COLLEGE DUBLIN,505.0,530.0,True,False,False,False,False
+332,TR018,Law and French,TRINITY COLLEGE DUBLIN,565.0,590.0,True,False,True,False,False
+333,TR019,Law and German,TRINITY COLLEGE DUBLIN,535.0,565.0,True,False,False,False,False
+334,TR021,Classics,TRINITY COLLEGE DUBLIN,410.0,535.0,True,False,False,False,False
+335,TR022,Early and Modern Irish,TRINITY COLLEGE DUBLIN,345.0,395.0,True,False,False,False,False
+336,TR023,English Studies,TRINITY COLLEGE DUBLIN,500.0,560.0,True,False,False,False,False
+337,TR024,European Studies,TRINITY COLLEGE DUBLIN,495.0,540.0,True,False,True,False,False
+338,TR025,Drama and Theatre Studies,TRINITY COLLEGE DUBLIN,485.0,525.0,True,False,True,False,False
+339,TR026,Germanic Languages,TRINITY COLLEGE DUBLIN,450.0,460.0,True,False,False,False,False
+340,TR027,Irish Studies,TRINITY COLLEGE DUBLIN,325.0,430.0,True,False,False,False,False
+341,TR031,Mathematics,TRINITY COLLEGE DUBLIN,450.0,530.0,True,False,False,False,False
+342,TR032,Engineering,TRINITY COLLEGE DUBLIN,445.0,505.0,True,False,True,False,False
+343,TR033,Computer Science,TRINITY COLLEGE DUBLIN,355.0,430.0,True,False,False,False,False
+344,TR034,Management Science and Information Systems Studies,TRINITY COLLEGE DUBLIN,435.0,495.0,True,False,False,False,False
+345,TR035,Theoretical Physics,TRINITY COLLEGE DUBLIN,500.0,555.0,True,False,False,False,False
+346,TR038,Engineering with Management,TRINITY COLLEGE DUBLIN,375.0,440.0,True,False,False,False,False
+347,TR051,Medicine,TRINITY COLLEGE DUBLIN,580.0,600.0,True,False,False,False,False
+348,TR052,Dental Science,TRINITY COLLEGE DUBLIN,550.0,565.0,True,False,False,False,False
+349,TR053,Physiotherapy,TRINITY COLLEGE DUBLIN,510.0,535.0,True,False,True,False,False
+350,TR054,Occupational Therapy,TRINITY COLLEGE DUBLIN,495.0,515.0,True,False,True,False,False
+351,TR055,Radiation Therapy,TRINITY COLLEGE DUBLIN,500.0,530.0,True,False,True,False,False
+352,TR071,Science,TRINITY COLLEGE DUBLIN,415.0,480.0,True,False,False,False,False
+353,TR072,Pharmacy,TRINITY COLLEGE DUBLIN,545.0,565.0,True,False,True,False,False
+354,TR073,Human Genetics,TRINITY COLLEGE DUBLIN,455.0,515.0,True,False,False,False,False
+355,TR074,Chemistry with Molecular Modelling,TRINITY COLLEGE DUBLIN,410.0,425.0,True,False,False,False,False
+356,TR075,Medicinal Chemistry,TRINITY COLLEGE DUBLIN,440.0,510.0,True,False,False,False,False
+357,TR076,Physics and Chemistry of Advanced Materials,TRINITY COLLEGE DUBLIN,385.0,460.0,True,False,False,False,False
+358,TR081,"Business, Economic and Social Studies",TRINITY COLLEGE DUBLIN,470.0,500.0,True,False,True,False,False
+359,TR083,Sociology and Social Policy,TRINITY COLLEGE DUBLIN,435.0,465.0,True,False,False,False,False
+360,TR084,Social Studies (Social Work),TRINITY COLLEGE DUBLIN,480.0,515.0,True,False,True,False,False
+361,TR085,Business Studies and French,TRINITY COLLEGE DUBLIN,510.0,535.0,True,False,True,False,False
+362,TR086,Business Studies and German,TRINITY COLLEGE DUBLIN,420.0,465.0,True,False,True,False,False
+363,TR087,Business Studies and Russian,TRINITY COLLEGE DUBLIN,410.0,430.0,True,False,True,False,False
+364,TR089,Business Studies and Polish,TRINITY COLLEGE DUBLIN,415.0,415.0,True,False,False,False,False
+365,TR090,Business Studies and Spanish,TRINITY COLLEGE DUBLIN,460.0,500.0,True,False,False,False,False
+366,TR091,General Nursing (Meath and St James's),TRINITY COLLEGE DUBLIN,355.0,385.0,True,False,False,False,False
+367,TR092,Mature Applicants General Nursing (Meath and St James's),TRINITY COLLEGE DUBLIN,158.0,163.0,True,True,False,False,False
+368,TR093,General Nursing (Adelaide School of Nursing),TRINITY COLLEGE DUBLIN,375.0,415.0,True,True,False,False,False
+369,TR094,Mature Applicants General Nursing (Adelaide School of Nursing),TRINITY COLLEGE DUBLIN,171.0,179.0,True,True,False,False,False
+370,TR095,Psychiatric Nursing,TRINITY COLLEGE DUBLIN,290.0,345.0,True,False,False,False,False
+371,TR096,Mature Applicants Psychiatric Nursing,TRINITY COLLEGE DUBLIN,116.0,144.0,True,True,False,False,False
+372,TR097,Intellectual Disability Nursing,TRINITY COLLEGE DUBLIN,290.0,345.0,True,False,False,False,False
+373,TR098,Mature Applicants Intellectual Disability Nursing,TRINITY COLLEGE DUBLIN,139.0,151.0,True,True,False,False,False
+374,TR911,Children's and General Nursing (Integrated),TRINITY COLLEGE DUBLIN,465.0,480.0,True,False,True,False,False
+375,TR912,Mature Applicants Children's and General Nursing (Integrated),TRINITY COLLEGE DUBLIN,163.0,172.0,True,True,False,False,False
+376,TR913,Midwifery,TRINITY COLLEGE DUBLIN,395.0,430.0,True,False,True,False,False
+377,TR914,Mature Applicants Midwifery,TRINITY COLLEGE DUBLIN,170.0,176.0,True,True,False,False,False
+378,DN001,Architecture,UNIVERSITY COLLEGE DUBLIN,525.0,560.0,True,False,False,False,False
+379,DN002,Medicine,UNIVERSITY COLLEGE DUBLIN,570.0,580.0,True,False,True,False,False
+380,DN004,Radiography,UNIVERSITY COLLEGE DUBLIN,510.0,525.0,True,False,False,False,False
+381,DN005,Veterinary Medicine,UNIVERSITY COLLEGE DUBLIN,545.0,565.0,True,False,True,False,False
+382,DN006,Physiotherapy,UNIVERSITY COLLEGE DUBLIN,510.0,535.0,True,False,True,False,False
+383,DN007,Social Science,UNIVERSITY COLLEGE DUBLIN,390.0,425.0,True,False,False,False,False
+384,DN008,Science,UNIVERSITY COLLEGE DUBLIN,300.0,400.0,True,False,False,False,False
+385,DN009,Law (BCL),UNIVERSITY COLLEGE DUBLIN,490.0,510.0,True,False,True,False,False
+386,DN010,Agricultural Science,UNIVERSITY COLLEGE DUBLIN,375.0,415.0,True,False,False,False,False
+387,DN012,Arts,UNIVERSITY COLLEGE DUBLIN,350.0,400.0,True,False,False,False,False
+388,DN013,Commerce - Business with Chinese Studies,UNIVERSITY COLLEGE DUBLIN,465.0,490.0,True,False,False,False,False
+389,DN015,Commerce,UNIVERSITY COLLEGE DUBLIN,450.0,470.0,True,False,False,False,False
+390,DN016,Commerce (International) - with German,UNIVERSITY COLLEGE DUBLIN,425.0,445.0,True,False,False,False,False
+391,DN017,Commerce (International) - with French,UNIVERSITY COLLEGE DUBLIN,490.0,515.0,True,False,False,False,False
+392,DN018,Commerce (International) - with Spanish,UNIVERSITY COLLEGE DUBLIN,455.0,480.0,True,False,False,False,False
+393,DN019,Commerce (International) - with Italian,UNIVERSITY COLLEGE DUBLIN,435.0,440.0,True,False,False,False,False
+394,DN020,Actuarial and Financial Studies,UNIVERSITY COLLEGE DUBLIN,520.0,555.0,True,False,False,False,False
+395,DN021,Business and Law,UNIVERSITY COLLEGE DUBLIN,490.0,515.0,True,False,True,False,False
+396,DN022,Arts part-time (Evening),UNIVERSITY COLLEGE DUBLIN,225.0,485.0,True,False,False,False,False
+397,DN023,Arts part-time (Day),UNIVERSITY COLLEGE DUBLIN,350.0,,True,False,False,False,False
+398,DN024,Sport and Exercise Management,UNIVERSITY COLLEGE DUBLIN,380.0,415.0,True,False,False,False,False
+399,DN026,Economics and Finance,UNIVERSITY COLLEGE DUBLIN,505.0,535.0,True,False,False,False,False
+400,DN028,BCL Maîtrise,UNIVERSITY COLLEGE DUBLIN,535.0,545.0,True,False,False,False,False
+401,DN029,Law with French Law (BCL),UNIVERSITY COLLEGE DUBLIN,495.0,520.0,True,False,False,False,False
+402,DN030,Computer Science - Science,UNIVERSITY COLLEGE DUBLIN,335.0,410.0,True,False,False,False,False
+403,DN031,Theoretical Physics,UNIVERSITY COLLEGE DUBLIN,405.0,525.0,True,False,False,False,False
+404,DN032,Mathematical Science,UNIVERSITY COLLEGE DUBLIN,465.0,530.0,True,False,False,False,False
+405,DN033,Physics with Astronomy and Space Science,UNIVERSITY COLLEGE DUBLIN,335.0,435.0,True,False,False,False,False
+406,DN034,Pharmacology,UNIVERSITY COLLEGE DUBLIN,420.0,480.0,True,False,False,False,False
+407,DN035,Medicinal Chemistry and Chemical Biology,UNIVERSITY COLLEGE DUBLIN,395.0,435.0,True,False,False,False,False
+408,DN036,Neuroscience,UNIVERSITY COLLEGE DUBLIN,435.0,480.0,True,False,False,False,False
+409,DN037,"Biomedical, Health and Life Sciences",UNIVERSITY COLLEGE DUBLIN,475.0,520.0,True,False,False,False,False
+410,DN038,Climate and Earth System Science,UNIVERSITY COLLEGE DUBLIN,320.0,425.0,True,False,False,False,False
+411,DN039,Biochemistry and Molecular Biology,UNIVERSITY COLLEGE DUBLIN,465.0,485.0,True,False,False,False,False
+412,DN040,Food Science,UNIVERSITY COLLEGE DUBLIN,360.0,410.0,True,False,False,False,False
+413,DN041,Landscape Architecture,UNIVERSITY COLLEGE DUBLIN,390.0,435.0,True,False,False,False,False
+414,DN042,Forestry,UNIVERSITY COLLEGE DUBLIN,330.0,360.0,True,False,False,False,False
+415,DN043,Food and Agribusiness Management,UNIVERSITY COLLEGE DUBLIN,375.0,420.0,True,False,False,False,False
+416,DN044,Agri-Environmental Sciences,UNIVERSITY COLLEGE DUBLIN,320.0,350.0,True,False,False,False,False
+417,DN045,Animal and Crop Production,UNIVERSITY COLLEGE DUBLIN,340.0,370.0,True,False,False,False,False
+418,DN046,Animal Science,UNIVERSITY COLLEGE DUBLIN,360.0,405.0,True,False,False,False,False
+419,DN047,Engineering Technology,UNIVERSITY COLLEGE DUBLIN,360.0,395.0,True,False,False,False,False
+420,DN048,"Horticulture, Landscape and Sportsturf Management",UNIVERSITY COLLEGE DUBLIN,315.0,345.0,True,False,False,False,False
+421,DN049,Animal Science - Equine,UNIVERSITY COLLEGE DUBLIN,415.0,460.0,True,False,False,False,False
+422,DN050,Computer Science - Arts,UNIVERSITY COLLEGE DUBLIN,290.0,345.0,True,False,False,False,False
+423,DN051,Economics,UNIVERSITY COLLEGE DUBLIN,435.0,440.0,True,False,False,False,False
+424,DN052,History,UNIVERSITY COLLEGE DUBLIN,425.0,445.0,True,False,True,False,False
+425,DN053,Philosophy,UNIVERSITY COLLEGE DUBLIN,385.0,415.0,True,False,True,False,False
+426,DN054,Psychology,UNIVERSITY COLLEGE DUBLIN,495.0,515.0,True,False,True,False,False
+427,DN055,English,UNIVERSITY COLLEGE DUBLIN,465.0,480.0,True,False,True,False,False
+428,DN056,Integrated BA/MA Masters degree programme,UNIVERSITY COLLEGE DUBLIN,400.0,435.0,True,False,False,False,False
+429,DN057,Arts (International) - French,UNIVERSITY COLLEGE DUBLIN,445.0,460.0,True,False,False,False,False
+430,DN058,Arts (International) - German,UNIVERSITY COLLEGE DUBLIN,320.0,370.0,True,False,False,False,False
+431,DN059,Arts (International) - Spanish,UNIVERSITY COLLEGE DUBLIN,445.0,495.0,True,False,False,False,False
+432,DN060,Law with History,UNIVERSITY COLLEGE DUBLIN,520.0,530.0,True,False,False,False,False
+433,DN061,"History, Politics and International Relations",UNIVERSITY COLLEGE DUBLIN,480.0,520.0,True,False,False,False,False
+434,DN062,Economics and Politics,UNIVERSITY COLLEGE DUBLIN,440.0,455.0,True,False,False,False,False
+435,DN063,"Geography, Planning and Environmental Policy",UNIVERSITY COLLEGE DUBLIN,435.0,460.0,True,False,False,False,False
+436,DN065,Law with Politics,UNIVERSITY COLLEGE DUBLIN,540.0,555.0,True,False,False,False,False
+437,DN066,Law with Philosophy,UNIVERSITY COLLEGE DUBLIN,505.0,510.0,True,False,False,False,False
+438,DN067,Law with Economics,UNIVERSITY COLLEGE DUBLIN,540.0,550.0,True,False,False,False,False
+439,DN071,Chemical Engineering or Bioprocess Engineering,UNIVERSITY COLLEGE DUBLIN,425.0,470.0,True,False,False,False,False
+440,DN072,Civil Engineering,UNIVERSITY COLLEGE DUBLIN,470.0,500.0,True,False,False,False,False
+441,DN073,Electronic Engineering or Electrical Engineering,UNIVERSITY COLLEGE DUBLIN,355.0,415.0,True,False,False,False,False
+442,DN074,Mechanical Engineering,UNIVERSITY COLLEGE DUBLIN,360.0,455.0,True,False,False,False,False
+443,DN076,Biosystems Engineering,UNIVERSITY COLLEGE DUBLIN,325.0,510.0,True,False,False,False,False
+444,DN077,Engineering,UNIVERSITY COLLEGE DUBLIN,475.0,520.0,True,False,False,False,False
+445,DN078,Structural Engineering with Architecture,UNIVERSITY COLLEGE DUBLIN,495.0,515.0,True,False,False,False,False
+446,DN080,Engineering Science,UNIVERSITY COLLEGE DUBLIN,455.0,505.0,True,False,False,False,False
+447,DN090,Human Nutrition,UNIVERSITY COLLEGE DUBLIN,510.0,525.0,True,False,False,False,False
+448,DN093,Archaeology and Geology,UNIVERSITY COLLEGE DUBLIN,345.0,385.0,True,False,False,False,False
+449,DN096,Health and Performance Science,UNIVERSITY COLLEGE DUBLIN,420.0,445.0,True,False,False,False,False
+450,DN102,Medicine - Graduate Entry,UNIVERSITY COLLEGE DUBLIN,57.0,58.0,True,True,True,False,False
+451,DN105,Veterinary Medicine - Graduate Entry route,UNIVERSITY COLLEGE DUBLIN,,,True,True,False,False,False
+452,DN110,General Nursing,UNIVERSITY COLLEGE DUBLIN,350.0,385.0,True,False,False,False,False
+453,DN111,Mature Applicants General Nursing,UNIVERSITY COLLEGE DUBLIN,150.0,155.0,True,True,False,False,False
+454,DN116,Children's and General Nursing (Integrated),UNIVERSITY COLLEGE DUBLIN,455.0,465.0,True,False,False,False,False
+455,DN117,Mature Applicants Children's and General Nursing (Integrated),UNIVERSITY COLLEGE DUBLIN,154.0,159.0,True,True,False,False,False
+456,DN118,Midwifery,UNIVERSITY COLLEGE DUBLIN,415.0,445.0,True,False,False,False,False
+457,DN119,Mature Applicants Midwifery,UNIVERSITY COLLEGE DUBLIN,162.0,167.0,True,True,True,False,False
+458,DN120,Psychiatric Nursing,UNIVERSITY COLLEGE DUBLIN,330.0,355.0,True,False,False,False,False
+459,DN121,Mature Applicants Psychiatric Nursing,UNIVERSITY COLLEGE DUBLIN,137.0,145.0,True,True,False,False,False
+460,DK810,Accounting and Finance,DUNDALK IT,300.0,365.0,True,False,False,False,False
+461,DK812,Marketing,DUNDALK IT,280.0,320.0,True,False,False,False,False
+462,DK814,Business Studies in International Management,DUNDALK IT,280.0,335.0,True,False,False,False,False
+463,DK815,Public Relations,DUNDALK IT,285.0,340.0,True,False,False,False,False
+464,DK820,Computing in Games Development,DUNDALK IT,280.0,350.0,True,False,False,False,False
+465,DK821,Computing in Internet Technologies,DUNDALK IT,260.0,340.0,True,False,False,False,False
+466,DK830,Building Surveying,DUNDALK IT,260.0,320.0,True,False,False,False,False
+467,DK860,Applied Music,DUNDALK IT,,,True,True,False,False,False
+468,DK870,General Nursing,DUNDALK IT,330.0,345.0,True,False,True,False,False
+469,DK871,Mature Applicants General Nursing,DUNDALK IT,159.0,163.0,True,True,False,False,False
+470,DK872,Intellectual Disability Nursing,DUNDALK IT,280.0,305.0,True,False,True,False,False
+471,DK873,Mature Applicants Intellectual Disability Nursing,DUNDALK IT,139.0,155.0,True,True,False,False,False
+472,DK874,Psychiatric Nursing,DUNDALK IT,305.0,320.0,True,False,True,False,False
+473,DK875,Mature Applicants Psychiatric Nursing,DUNDALK IT,139.0,151.0,True,True,False,False,False
+474,DK876,Early Childhood Studies,DUNDALK IT,305.0,345.0,True,False,True,False,False
+475,DK877,Midwifery,DUNDALK IT,375.0,395.0,True,False,False,False,False
+476,DK878,Mature Applicants Midwifery,DUNDALK IT,166.0,172.0,True,True,True,False,False
+477,DK880,Health Promotion and Physical Activity,DUNDALK IT,305.0,345.0,True,False,False,False,False
+478,GA180,Gnó agus Cumarsáid,GALWAY-MAYO IT,270.0,300.0,True,False,False,False,False
+479,GA181,Accounting,GALWAY-MAYO IT,300.0,340.0,True,False,False,False,False
+480,GA380,Hotel and Catering Management,GALWAY-MAYO IT,240.0,305.0,True,False,False,False,False
+481,GA480,Construction Management,GALWAY-MAYO IT,320.0,360.0,True,False,False,False,False
+482,GA481,Property Studies,GALWAY-MAYO IT,330.0,370.0,True,False,False,False,False
+483,GA780,Applied Freshwater and Marine Biology,GALWAY-MAYO IT,300.0,360.0,True,False,False,False,False
+484,GA781,Applied Biology and Biopharmaceutical Science,GALWAY-MAYO IT,305.0,350.0,True,False,False,False,False
+485,GA782,Chemical & Pharmaceutical Science,GALWAY-MAYO IT,315.0,355.0,True,False,False,False,False
+486,GA783,Physics and Instrumentation,GALWAY-MAYO IT,345.0,350.0,True,False,False,False,False
+487,GA784,Science (Undenominated),GALWAY-MAYO IT,315.0,355.0,True,False,False,False,False
+488,GA785,Medical Science,GALWAY-MAYO IT,375.0,425.0,True,False,False,False,False
+489,GA880,General Nursing (Castlebar),GALWAY-MAYO IT,350.0,365.0,True,False,False,False,False
+490,GA881,Mature Applicants General Nursing (Castlebar),GALWAY-MAYO IT,161.0,168.0,True,True,True,False,False
+491,GA882,Psychiatric Nursing (Castlebar),GALWAY-MAYO IT,320.0,335.0,True,False,False,False,False
+492,GA883,Mature Applicants Psychiatric Nursing (Castlebar),GALWAY-MAYO IT,164.0,170.0,True,True,False,False,False
+493,GA980,Design and Technology Education (Letterfrack),GALWAY-MAYO IT,395.0,415.0,True,False,False,False,False
+494,GY101,Arts,NUI - GALWAY,345.0,395.0,True,False,False,False,False
+495,GY102,Arts (Economic and Social Studies at St Angela's College Sligo),NUI - GALWAY,225.0,305.0,True,False,False,False,False
+496,GY103,Arts (Public and Social Policy),NUI - GALWAY,310.0,330.0,True,False,False,False,False
+497,GY104,Arts (Psychology),NUI - GALWAY,515.0,525.0,True,False,True,False,False
+498,GY105,Arts (History),NUI - GALWAY,345.0,410.0,True,False,False,False,False
+499,GY106,Na Dána (Cumarsáid),NUI - GALWAY,285.0,385.0,True,False,False,False,False
+500,GY107,Na Dána (Gaeilge agus Léann an Aistrúcháin),NUI - GALWAY,305.0,485.0,True,False,False,False,False
+501,GY108,Na Dána (Riarachán Gnó),NUI - GALWAY,260.0,390.0,True,False,False,False,False
+502,GY109,Arts (Mathematics and Education),NUI - GALWAY,325.0,415.0,True,False,False,False,False
+503,GY110,Arts with Children's Studies,NUI - GALWAY,425.0,450.0,True,False,False,False,False
+504,GY111,Arts with Creative Writing,NUI - GALWAY,480.0,515.0,True,False,False,False,False
+505,GY112,Arts with Film Studies,NUI - GALWAY,430.0,460.0,True,False,False,False,False
+506,GY113,Arts with Human Rights,NUI - GALWAY,385.0,425.0,True,False,False,False,False
+507,GY114,Arts with Irish Studies,NUI - GALWAY,340.0,375.0,True,False,False,False,False
+508,GY115,Arts with Theatre and Performance,NUI - GALWAY,450.0,465.0,True,False,False,False,False
+509,GY116,Arts with Women's Studies,NUI - GALWAY,300.0,325.0,True,False,False,False,False
+510,GY201,Commerce,NUI - GALWAY,365.0,400.0,True,False,False,False,False
+511,GY202,Commerce (International) with French,NUI - GALWAY,440.0,495.0,True,False,False,False,False
+512,GY203,Commerce (International) with German,NUI - GALWAY,355.0,415.0,True,False,False,False,False
+513,GY204,Commerce (International) with Spanish,NUI - GALWAY,320.0,385.0,True,False,False,False,False
+514,GY205,Commerce (International) with Italian,NUI - GALWAY,350.0,370.0,True,False,False,False,False
+515,GY206,Business Information Systems,NUI - GALWAY,300.0,340.0,True,False,False,False,False
+516,GY207,Commerce (Accounting),NUI - GALWAY,450.0,480.0,True,False,False,False,False
+517,GY250,Corporate Law,NUI - GALWAY,430.0,455.0,True,False,False,False,False
+518,GY251,Civil Law,NUI - GALWAY,480.0,495.0,True,False,False,False,False
+519,GY301,Science,NUI - GALWAY,280.0,395.0,True,False,False,False,False
+520,GY303,Biomedical Science,NUI - GALWAY,440.0,485.0,True,False,False,False,False
+521,GY304,Biotechnology,NUI - GALWAY,290.0,340.0,True,False,False,False,False
+522,GY306,Computing Studies/Mathematical Science,NUI - GALWAY,415.0,525.0,True,False,False,False,False
+523,GY308,Environmental Science,NUI - GALWAY,330.0,390.0,True,False,False,False,False
+524,GY309,Financial Mathematics and Economics,NUI - GALWAY,385.0,465.0,True,False,False,False,False
+525,GY310,Marine Science,NUI - GALWAY,305.0,370.0,True,False,False,False,False
+526,GY313,Health & Safety Systems,NUI - GALWAY,300.0,330.0,True,False,False,False,False
+527,GY314,Earth and Ocean Sciences,NUI - GALWAY,285.0,335.0,True,False,False,False,False
+528,GY315,Physics and Applied Physics,NUI - GALWAY,365.0,475.0,True,False,False,False,False
+529,GY316,Physics with Medical Physics,NUI - GALWAY,340.0,410.0,True,False,False,False,False
+530,GY317,Physics with Astrophysics,NUI - GALWAY,350.0,450.0,True,False,False,False,False
+531,GY318,Biopharmaceutical Chemistry Honours Bachelor Degree,NUI - GALWAY,330.0,440.0,True,False,False,False,False
+532,GY350,Information Technology,NUI - GALWAY,325.0,395.0,True,False,False,False,False
+533,GY401,Engineering (Undenominated),NUI - GALWAY,400.0,450.0,True,False,False,False,False
+534,GY402,Civil Engineering,NUI - GALWAY,425.0,475.0,True,False,False,False,False
+535,GY403,Electronic Engineering,NUI - GALWAY,360.0,405.0,True,False,False,False,False
+536,GY404,Industrial Engineering,NUI - GALWAY,385.0,385.0,True,False,False,False,False
+537,GY405,Mechanical Engineering,NUI - GALWAY,360.0,420.0,True,False,False,False,False
+538,GY406,Electronic and Computer Engineering,NUI - GALWAY,385.0,480.0,True,False,False,False,False
+539,GY408,Biomedical Engineering,NUI - GALWAY,405.0,505.0,True,False,False,False,False
+540,GY409,Environmental Engineering,NUI - GALWAY,415.0,440.0,True,False,False,False,False
+541,GY410,Project and Construction Management,NUI - GALWAY,330.0,375.0,True,False,False,False,False
+542,GY411,Sports and Exercise Engineering,NUI - GALWAY,385.0,455.0,True,False,False,False,False
+543,GY501,Medicine,NUI - GALWAY,565.0,570.0,True,False,True,False,False
+544,GY502,Occupational Therapy,NUI - GALWAY,485.0,505.0,True,False,True,False,False
+545,GY503,Speech and Language Therapy,NUI - GALWAY,515.0,535.0,True,False,True,False,False
+546,GY504,Podiatry,NUI - GALWAY,390.0,420.0,True,False,False,False,False
+547,GY515,General Nursing (Galway and Portiuncula),NUI - GALWAY,380.0,420.0,True,False,True,False,False
+548,GY516,Psychiatric Nursing,NUI - GALWAY,350.0,365.0,True,False,False,False,False
+549,GY517,Midwifery,NUI - GALWAY,380.0,400.0,True,False,False,False,False
+550,GY525,Mature Applicants General Nursing (Galway and Portiuncula),NUI - GALWAY,163.0,167.0,True,True,False,False,False
+551,GY526,Mature Applicants Psychiatric Nursing,NUI - GALWAY,159.0,168.0,True,True,True,False,False
+552,GY527,Mature Applicants Midwifery,NUI - GALWAY,170.0,177.0,True,True,True,False,False
+553,LY708,Applied Computing,LETTERKENNY IT,235.0,354.0,True,False,False,False,False
+554,LY908,General Nursing,LETTERKENNY IT,340.0,355.0,True,False,False,False,False
+555,LY918,Psychiatric Nursing,LETTERKENNY IT,300.0,325.0,True,False,False,False,False
+556,LY928,Intellectual Disability Nursing,LETTERKENNY IT,290.0,315.0,True,False,False,False,False
+557,LY938,Mature Applicants General Nursing,LETTERKENNY IT,169.0,176.0,True,True,False,False,False
+558,LY948,Mature Applicants Psychiatric Nursing,LETTERKENNY IT,155.0,164.0,True,True,False,False,False
+559,LY958,Mature Applicants Intellectual Disability Nursing,LETTERKENNY IT,130.0,160.0,True,True,False,False,False
+560,LC102,Art and Design,LIMERICK IT,700.0,870.0,True,True,False,False,False
+561,LC331,Software Development,LIMERICK IT,275.0,320.0,True,False,False,False,False
+562,LC341,Multimedia Programming and Design,LIMERICK IT,280.0,320.0,True,False,False,False,False
+563,LC391,Computer Networks and Systems,LIMERICK IT,260.0,325.0,True,False,False,False,False
+564,LC421,Civil Engineering Management,LIMERICK IT,320.0,350.0,True,False,False,False,False
+565,LC471,Quantity Surveying,LIMERICK IT,360.0,390.0,True,False,False,False,False
+566,LC481,Real Estate (Property Valuation and Management),LIMERICK IT,305.0,325.0,True,False,False,False,False
+567,LC491,Construction Management,LIMERICK IT,330.0,360.0,True,False,False,False,False
+568,LC651,Science (Pharmaceutical and Forensic Analysis),LIMERICK IT,370.0,410.0,True,False,False,False,False
+569,LC661,Drug and Medicinal Product Analysis,LIMERICK IT,305.0,340.0,True,False,False,False,False
+570,LC921,Applied Social Studies (Social Care),LIMERICK IT,325.0,355.0,True,False,False,False,False
+571,LC931,Business Studies (Tourism),LIMERICK IT,295.0,335.0,True,False,False,False,False
+572,LC941,Business Studies (Event Management),LIMERICK IT,270.0,330.0,True,False,False,False,False
+573,LC951,Law and Taxation,LIMERICK IT,360.0,375.0,True,False,False,False,False
+574,MI004,Liberal Arts,MARY IMMACULATE LIMERICK,385.0,420.0,True,False,False,False,False
+575,MI005,Education - Primary Teaching,MARY IMMACULATE LIMERICK,475.0,500.0,True,False,False,False,False
+576,MI006,Education - Primary Teaching - Gaeltacht Applicants,MARY IMMACULATE LIMERICK,435.0,455.0,True,False,False,False,False
+577,MI007,Early Childhood Care and Education,MARY IMMACULATE LIMERICK,335.0,380.0,True,False,False,False,False
+578,MI008,Primary Teaching in Education and Psychology,MARY IMMACULATE LIMERICK,545.0,555.0,True,False,True,False,False
+579,CI101,Counselling and Psychometric Testing,NATIONAL COUNSELLING INSTITUTE,250.0,315.0,True,False,False,False,False
+580,CI102,Counselling Skills and Addiction,NATIONAL COUNSELLING INSTITUTE,290.0,345.0,True,False,False,False,False
+581,CI105,Youth and Counselling Studies,NATIONAL COUNSELLING INSTITUTE,240.0,320.0,True,False,False,False,False
+582,LM020,Law and Accounting,UNIVERSITY OF LIMERICK,475.0,510.0,True,False,False,False,False
+583,LM022,Politics and International Relations,UNIVERSITY OF LIMERICK,350.0,365.0,True,False,False,False,False
+584,LM023,Health Informatics,UNIVERSITY OF LIMERICK,320.0,375.0,True,False,False,False,False
+585,LM029,Law Plus,UNIVERSITY OF LIMERICK,485.0,505.0,True,False,False,False,False
+586,LM030,Irish Music and Dance,UNIVERSITY OF LIMERICK,300.0,410.0,True,True,False,False,False
+587,LM031,Voice and Dance,UNIVERSITY OF LIMERICK,305.0,385.0,True,True,False,False,False
+588,LM032,Arts (Joint Honours),UNIVERSITY OF LIMERICK,440.0,460.0,True,False,False,False,False
+589,LM033,New Media and English,UNIVERSITY OF LIMERICK,370.0,405.0,True,False,False,False,False
+590,LM035,English and History,UNIVERSITY OF LIMERICK,350.0,380.0,True,False,False,False,False
+591,LM036,Economics and Sociology,UNIVERSITY OF LIMERICK,340.0,360.0,True,False,False,False,False
+592,LM037,Economics and Mathematical Sciences,UNIVERSITY OF LIMERICK,430.0,485.0,True,False,False,False,False
+593,LM038,Psychology and Sociology,UNIVERSITY OF LIMERICK,505.0,520.0,True,False,True,False,False
+594,LM039,Journalism & New Media,UNIVERSITY OF LIMERICK,405.0,435.0,True,False,False,False,False
+595,LM040,European Studies,UNIVERSITY OF LIMERICK,350.0,400.0,True,False,False,False,False
+596,LM041,Public Administration,UNIVERSITY OF LIMERICK,315.0,345.0,True,False,False,False,False
+597,LM042,Law and European Studies,UNIVERSITY OF LIMERICK,455.0,470.0,True,False,False,False,False
+598,LM043,International Insurance and European Studies,UNIVERSITY OF LIMERICK,375.0,405.0,True,False,False,False,False
+599,LM044,Applied Languages,UNIVERSITY OF LIMERICK,430.0,475.0,True,False,False,False,False
+600,LM045,Language and Cultural Studies,UNIVERSITY OF LIMERICK,350.0,405.0,True,False,False,False,False
+601,LM046,"History, Politics, Sociology and Social Studies",UNIVERSITY OF LIMERICK,350.0,395.0,True,False,False,False,False
+602,LM048,Irish and New Media/An Ghaeilge agus na Meáin Úra,UNIVERSITY OF LIMERICK,390.0,420.0,True,False,False,False,False
+603,LM050,Business Studies,UNIVERSITY OF LIMERICK,390.0,425.0,True,False,False,False,False
+604,LM051,Computer Systems,UNIVERSITY OF LIMERICK,300.0,385.0,True,False,False,False,False
+605,LM052,Business Studies and a Modern Language (French),UNIVERSITY OF LIMERICK,380.0,440.0,True,False,False,False,False
+606,LM053,Business Studies and a Modern Language (German),UNIVERSITY OF LIMERICK,385.0,435.0,True,False,False,False,False
+607,LM055,Business Studies and a Modern Language (Japanese),UNIVERSITY OF LIMERICK,430.0,480.0,True,False,False,False,False
+608,LM058,Financial Mathematics,UNIVERSITY OF LIMERICK,355.0,430.0,True,False,False,False,False
+609,LM060,Mathematical Sciences,UNIVERSITY OF LIMERICK,385.0,475.0,True,False,False,False,False
+610,LM061,Pharmaceutical and Industrial Chemistry,UNIVERSITY OF LIMERICK,355.0,440.0,True,False,False,False,False
+611,LM062,Biomedical and Advanced Materials,UNIVERSITY OF LIMERICK,310.0,395.0,True,False,False,False,False
+612,LM063,Production Management,UNIVERSITY OF LIMERICK,305.0,345.0,True,False,False,False,False
+613,LM064,Industrial Biochemistry,UNIVERSITY OF LIMERICK,365.0,455.0,True,False,False,False,False
+614,LM065,Applied Physics,UNIVERSITY OF LIMERICK,360.0,455.0,True,False,False,False,False
+615,LM066,Environmental Science,UNIVERSITY OF LIMERICK,355.0,415.0,True,False,False,False,False
+616,LM067,Wood Science and Technology,UNIVERSITY OF LIMERICK,305.0,370.0,True,False,False,False,False
+617,LM068,Food Science and Health,UNIVERSITY OF LIMERICK,350.0,410.0,True,False,False,False,False
+618,LM069,Computer Engineering,UNIVERSITY OF LIMERICK,435.0,515.0,True,False,False,False,False
+619,LM070,Electronic Engineering,UNIVERSITY OF LIMERICK,395.0,425.0,True,False,False,False,False
+620,LM071,Biomedical Engineering,UNIVERSITY OF LIMERICK,415.0,500.0,True,False,False,False,False
+621,LM073,Mechanical Engineering,UNIVERSITY OF LIMERICK,395.0,465.0,True,False,False,False,False
+622,LM074,Computer Aided Engineering and Design,UNIVERSITY OF LIMERICK,510.0,520.0,True,False,False,False,False
+623,LM075,Engineering Science,UNIVERSITY OF LIMERICK,355.0,400.0,True,False,False,False,False
+624,LM076,Product Design and Technology,UNIVERSITY OF LIMERICK,340.0,380.0,True,False,False,False,False
+625,LM077,Aeronautical Engineering,UNIVERSITY OF LIMERICK,395.0,455.0,True,False,False,False,False
+626,LM079,Manufacturing Engineering,UNIVERSITY OF LIMERICK,375.0,430.0,True,False,False,False,False
+627,LM080,Electronic Systems,UNIVERSITY OF LIMERICK,315.0,340.0,True,False,False,False,False
+628,LM081,Manufacturing Systems,UNIVERSITY OF LIMERICK,345.0,415.0,True,False,False,False,False
+629,LM082,Construction Management and Engineering,UNIVERSITY OF LIMERICK,380.0,405.0,True,False,False,False,False
+630,LM083,Applied Computing and Network Technologies,UNIVERSITY OF LIMERICK,370.0,385.0,True,False,False,False,False
+631,LM085,Civil Engineering,UNIVERSITY OF LIMERICK,490.0,530.0,True,False,False,False,False
+632,LM086,Health & Safety,UNIVERSITY OF LIMERICK,325.0,375.0,True,False,False,False,False
+633,LM089,Sport & Exercise Sciences,UNIVERSITY OF LIMERICK,410.0,435.0,True,False,False,False,False
+634,LM090,Physical Education with concurrent Teacher Education,UNIVERSITY OF LIMERICK,475.0,495.0,True,False,True,False,False
+635,LM092,Science with concurrent Teacher Ed (Bio Sci with Phys or Chem),UNIVERSITY OF LIMERICK,450.0,470.0,True,False,True,False,False
+636,LM093,Equine Science,UNIVERSITY OF LIMERICK,305.0,345.0,True,False,False,False,False
+637,LM094,Materials and Construction Technology with concurrent Teacher ed,UNIVERSITY OF LIMERICK,430.0,450.0,True,False,False,False,False
+638,LM095,Materials and Engineering Technology with concurrent Teacher ed,UNIVERSITY OF LIMERICK,415.0,425.0,True,False,False,False,False
+639,LM096,Science with concurrent Teacher Education (Physics and Chem),UNIVERSITY OF LIMERICK,465.0,505.0,True,False,False,False,False
+640,LM098,Languages with concurrent Teacher Education,UNIVERSITY OF LIMERICK,365.0,455.0,True,False,False,False,False
+641,LM099,Architecture,UNIVERSITY OF LIMERICK,490.0,520.0,True,True,True,False,False
+642,LM100,Physiotherapy,UNIVERSITY OF LIMERICK,555.0,575.0,True,False,False,False,False
+643,LM101,Medicine - Graduate Entry,UNIVERSITY OF LIMERICK,55.0,57.0,True,True,True,False,False
+644,LM110,Multimedia and Computer Games Development,UNIVERSITY OF LIMERICK,330.0,385.0,True,False,False,False,False
+645,LM112,Robotic Engineering,UNIVERSITY OF LIMERICK,410.0,440.0,True,False,False,False,False
+646,LM113,Digital Media Design,UNIVERSITY OF LIMERICK,335.0,370.0,True,False,False,False,False
+647,LM114,"Music, Media and Performance Technology",UNIVERSITY OF LIMERICK,395.0,425.0,True,False,False,False,False
+648,LM150,General Nursing,UNIVERSITY OF LIMERICK,425.0,450.0,True,False,False,False,False
+649,LM151,Mature Applicants General Nursing,UNIVERSITY OF LIMERICK,170.0,181.0,True,True,False,False,False
+650,LM152,Mental Health Nursing,UNIVERSITY OF LIMERICK,345.0,360.0,True,False,False,False,False
+651,LM153,Mature Applicants Mental Health Nursing,UNIVERSITY OF LIMERICK,157.0,169.0,True,True,False,False,False
+652,LM154,Intellectual Disability Nursing,UNIVERSITY OF LIMERICK,350.0,385.0,True,False,True,False,False
+653,LM155,Mature Applicants Intellectual Disability Nursing,UNIVERSITY OF LIMERICK,127.0,141.0,True,True,False,False,False
+654,LM156,Midwifery,UNIVERSITY OF LIMERICK,405.0,430.0,True,False,False,False,False
+655,LM157,Mature Applicants Midwifery,UNIVERSITY OF LIMERICK,183.0,194.0,True,True,False,False,False
+656,MH101,Arts,NUI  -  MAYNOOTH,355.0,395.0,True,False,False,False,False
+657,MH102,Music Technology,NUI  -  MAYNOOTH,400.0,435.0,True,False,False,False,False
+658,MH103,Music,NUI  -  MAYNOOTH,,,True,True,False,False,False
+659,MH104,Mathematics,NUI  -  MAYNOOTH,510.0,555.0,True,False,False,False,False
+660,MH106,Psychology,NUI  -  MAYNOOTH,490.0,500.0,True,False,False,False,False
+661,MH107,Social Science,NUI  -  MAYNOOTH,385.0,405.0,True,False,False,False,False
+662,MH108,European Studies,NUI  -  MAYNOOTH,360.0,415.0,True,False,False,False,False
+663,MH109,Media Studies,NUI  -  MAYNOOTH,425.0,450.0,True,False,False,False,False
+664,MH110,Multimedia,NUI  -  MAYNOOTH,365.0,395.0,True,False,False,False,False
+665,MH111,Anthropology,NUI  -  MAYNOOTH,370.0,415.0,True,False,False,False,False
+666,MH112,Politics,NUI  -  MAYNOOTH,360.0,410.0,True,False,False,False,False
+667,MH113,History,NUI  -  MAYNOOTH,370.0,405.0,True,False,False,False,False
+668,MH114,English,NUI  -  MAYNOOTH,450.0,470.0,True,False,False,False,False
+669,MH115,Law (BCL) and Arts,NUI  -  MAYNOOTH,475.0,490.0,True,False,True,False,False
+670,MH201,Science,NUI  -  MAYNOOTH,320.0,355.0,True,False,False,False,False
+671,MH202,Biotechnology,NUI  -  MAYNOOTH,340.0,370.0,True,False,False,False,False
+672,MH203,Computer Science and Software Engineering,NUI  -  MAYNOOTH,325.0,385.0,True,False,False,False,False
+673,MH204,Physics with Astrophysics,NUI  -  MAYNOOTH,410.0,430.0,True,False,False,False,False
+674,MH206,Theoretical Physics and Mathematics,NUI  -  MAYNOOTH,485.0,510.0,True,False,False,False,False
+675,MH207,Genetics and Bioinformatics,NUI  -  MAYNOOTH,370.0,390.0,True,False,False,False,False
+676,MH208,Biological and Biomedical Sciences,NUI  -  MAYNOOTH,380.0,425.0,True,False,False,False,False
+677,MH209,Psychology (through Science),NUI  -  MAYNOOTH,450.0,475.0,True,False,False,False,False
+678,MH210,Chemistry with Pharmaceutical Chemistry,NUI  -  MAYNOOTH,350.0,405.0,True,False,False,False,False
+679,MH211,Multimedia,NUI  -  MAYNOOTH,345.0,360.0,True,False,False,False,False
+680,MH212,Science Education,NUI  -  MAYNOOTH,455.0,490.0,True,False,False,False,False
+681,MH301,Computer Engineering,NUI  -  MAYNOOTH,350.0,535.0,True,False,False,False,False
+682,MH302,Electronic Engineering,NUI  -  MAYNOOTH,290.0,385.0,True,False,False,False,False
+683,MH303,Communications Engineering,NUI  -  MAYNOOTH,,350.0,True,False,False,True,False
+684,MH304,"Common entry in Computer, Electronic and Comms Eng",NUI  -  MAYNOOTH,315.0,385.0,True,False,False,False,False
+685,MH305,Product Design (Marketing and Innovation),NUI  -  MAYNOOTH,305.0,345.0,True,False,False,False,False
+686,MH401,Finance,NUI  -  MAYNOOTH,350.0,375.0,True,False,False,False,False
+687,MH402,Finance and Venture Management (with Bioscience or Electron.),NUI  -  MAYNOOTH,355.0,380.0,True,False,False,False,False
+688,MH403,Finance and Accounting,NUI  -  MAYNOOTH,375.0,395.0,True,False,False,False,False
+689,MH404,Business and Management,NUI  -  MAYNOOTH,405.0,430.0,True,False,False,False,False
+690,MH405,Equine Business,NUI  -  MAYNOOTH,355.0,390.0,True,False,False,False,False
+691,MH406,Business and Law,NUI  -  MAYNOOTH,465.0,485.0,True,False,False,False,False
+692,MU001,Theology and Arts,ST PATRICK'S (PONTIFICAL)-MAYNOOTH,315.0,340.0,True,False,False,False,False
+693,MU002,Theology,ST PATRICK'S (PONTIFICAL)-MAYNOOTH,305.0,370.0,True,False,False,False,False
+694,SN001,Business Studies in International Hotel Management,SHANNON COLLEGE OF HOTEL MGT,466.0,590.0,True,True,False,False,False
+695,SN002,Commerce,SHANNON COLLEGE OF HOTEL MGT,580.0,621.0,True,True,False,False,False
+696,SG141,Business (Level 8),IT SLIGO,280.0,330.0,True,False,False,False,False
+697,SG145,Computing in Web Development,IT SLIGO,400.0,400.0,True,False,False,False,False
+698,SG241,Performing Arts,IT SLIGO,230.0,330.0,True,False,False,False,False
+699,SG242,Early Childhood Education,IT SLIGO,315.0,355.0,True,False,False,False,False
+700,SG341,Quality Management and Technology,IT SLIGO,,,True,False,False,False,False
+701,SG342,Civil Engineering,IT SLIGO,330.0,420.0,True,False,False,False,False
+702,SG343,Quantity Surveying,IT SLIGO,330.0,360.0,True,False,False,False,False
+703,SG441,Environmental Science and Technology,IT SLIGO,280.0,330.0,True,False,False,False,False
+704,SG445,Pharmaceutical Science,IT SLIGO,260.0,310.0,True,False,False,False,False
+705,SG446,Applied Archaeology,IT SLIGO,275.0,325.0,True,False,False,False,False
+706,SG448,Forensic Investigation and Analysis,IT SLIGO,280.0,330.0,True,False,False,False,False
+707,AS001,Home Economics and Biology - second level teaching,ST ANGELA'S - SLIGO,465.0,490.0,True,False,True,False,False
+708,AS002,Home Economics and Religious Education - second level teaching,ST ANGELA'S - SLIGO,450.0,460.0,True,False,False,False,False
+709,AS003,Home Economics and Irish - second level teaching,ST ANGELA'S - SLIGO,450.0,465.0,True,False,False,False,False
+710,AS004,Home Economics and Economics/Consumer Studies - second leve,ST ANGELA'S - SLIGO,430.0,445.0,True,False,True,False,False
+711,AS110,General Nursing,ST ANGELA'S - SLIGO,355.0,375.0,True,False,True,False,False
+712,AS111,Mature Applicants General Nursing,ST ANGELA'S - SLIGO,165.0,169.0,True,True,False,False,False
+713,AS130,Intellectual Disability Nursing,ST ANGELA'S - SLIGO,220.0,305.0,True,False,False,False,False
+714,AS131,Mature Applicants Intellectual Disability Nursing,ST ANGELA'S - SLIGO,130.0,151.0,True,True,False,False,False
+715,TI007,Social and Community Studies,TIPPERARY INSTITUTE,230.0,300.0,True,False,False,False,False
+716,TI008,Environmental and Natural Resource Management,TIPPERARY INSTITUTE,235.0,305.0,True,False,False,False,False
+717,TI010,Accounting and Finance,TIPPERARY INSTITUTE,295.0,375.0,True,False,False,False,False
+718,TI013,Business,TIPPERARY INSTITUTE,230.0,310.0,True,False,False,False,False
+719,TI015,Computing - Software Development,TIPPERARY INSTITUTE,235.0,290.0,True,False,False,False,False
+720,TI018,Computing - Games Design and Development,TIPPERARY INSTITUTE,210.0,315.0,True,False,False,False,False
+721,TI113,Business,TIPPERARY INSTITUTE,225.0,310.0,True,False,False,False,False
+722,TI117,Information Technology - Creative Multimedia,TIPPERARY INSTITUTE,270.0,331.0,True,False,False,False,False
+723,TH001,"Education, Business Studies and Religious Studies",ST PATRICK'S - THURLES,320.0,365.0,True,False,True,False,False
+724,TL110,General Nursing,IT TRALEE,365.0,380.0,True,False,False,False,False
+725,TL111,Mature Applicants General Nursing,IT TRALEE,153.0,170.0,True,True,False,False,False
+726,TL115,Psychiatric Nursing,IT TRALEE,330.0,370.0,True,False,False,False,False
+727,TL116,Mature Applicants Psychiatric Nursing,IT TRALEE,134.0,148.0,True,True,False,False,False
+728,TL160,Early Childhood Care and Education,IT TRALEE,275.0,330.0,True,False,False,False,False
+729,TL183,Adventure Tourism Management,IT TRALEE,205.0,280.0,True,False,False,False,False
+730,TL285,Business Studies,IT TRALEE,270.0,325.0,True,False,False,False,False
+731,TL290,Interactive Multimedia,IT TRALEE,280.0,370.0,True,False,False,False,False
+732,TL291,"TV, Radio and New Media Broadcasting",IT TRALEE,255.0,340.0,True,False,False,False,False
+733,TL292,Music Technology,IT TRALEE,250.0,340.0,True,False,False,False,False
+734,TL330,Computing with Games Development,IT TRALEE,290.0,335.0,True,False,False,False,False
+735,TL360,Computing with Multimedia,IT TRALEE,365.0,375.0,True,False,False,False,False
+736,TL400,Wildlife Biology,IT TRALEE,310.0,370.0,True,False,False,False,False
+737,TL410,Pharmaceutical Analysis with Forensics,IT TRALEE,305.0,365.0,True,False,False,False,False
+738,WD025,Construction Management (and Engineering),WATERFORD INSTITUTE OF TECHNOLOGY,305.0,355.0,True,False,False,False,False
+739,WD027,Music,WATERFORD INSTITUTE OF TECHNOLOGY,280.0,350.0,True,True,False,False,False
+740,WD028,Applied Computing,WATERFORD INSTITUTE OF TECHNOLOGY,305.0,380.0,True,False,False,False,False
+741,WD048,Business,WATERFORD INSTITUTE OF TECHNOLOGY,305.0,350.0,True,False,False,False,False
+742,WD049,Business (with French),WATERFORD INSTITUTE OF TECHNOLOGY,405.0,425.0,True,False,False,False,False
+743,WD079,Business Management with Law,WATERFORD INSTITUTE OF TECHNOLOGY,290.0,325.0,True,False,False,False,False
+744,WD080,Business Studies (with German),WATERFORD INSTITUTE OF TECHNOLOGY,345.0,415.0,True,False,False,False,False
+745,WD084,Accounting,WATERFORD INSTITUTE OF TECHNOLOGY,335.0,385.0,True,False,False,False,False
+746,WD085,Mechanical and Manufacturing Engineering,WATERFORD INSTITUTE OF TECHNOLOGY,270.0,340.0,True,False,False,False,False
+747,WD086,Electronic Engineering,WATERFORD INSTITUTE OF TECHNOLOGY,375.0,375.0,True,False,False,False,False
+748,WD091,Hospitality Management,WATERFORD INSTITUTE OF TECHNOLOGY,280.0,315.0,True,False,False,False,False
+749,WD095,Marketing,WATERFORD INSTITUTE OF TECHNOLOGY,295.0,345.0,True,False,False,False,False
+750,WD116,General Nursing,WATERFORD INSTITUTE OF TECHNOLOGY,385.0,405.0,True,False,False,False,False
+751,WD117,Psychiatric Nursing,WATERFORD INSTITUTE OF TECHNOLOGY,330.0,350.0,True,False,False,False,False
+752,WD120,Intellectual Disability Nursing,WATERFORD INSTITUTE OF TECHNOLOGY,330.0,350.0,True,False,False,False,False
+753,WD123,Languages and Marketing,WATERFORD INSTITUTE OF TECHNOLOGY,325.0,350.0,True,False,False,False,False
+754,WD124,Health Promotion,WATERFORD INSTITUTE OF TECHNOLOGY,300.0,340.0,True,False,False,False,False
+755,WD125,Exercise and Health Studies,WATERFORD INSTITUTE OF TECHNOLOGY,295.0,340.0,True,False,False,False,False
+756,WD127,Retail Management,WATERFORD INSTITUTE OF TECHNOLOGY,270.0,305.0,True,False,False,False,False
+757,WD132,Physics with Computing,WATERFORD INSTITUTE OF TECHNOLOGY,330.0,405.0,True,False,False,False,False
+758,WD134,International Business,WATERFORD INSTITUTE OF TECHNOLOGY,320.0,385.0,True,False,False,False,False
+759,WD135,Applied Social Studies in Social Care,WATERFORD INSTITUTE OF TECHNOLOGY,335.0,370.0,True,False,False,False,False
+760,WD137,Design (Visual Communications),WATERFORD INSTITUTE OF TECHNOLOGY,300.0,365.0,True,False,False,False,False
+761,WD140,Legal Studies,WATERFORD INSTITUTE OF TECHNOLOGY,300.0,335.0,True,False,False,False,False
+762,WD144,Architecture,WATERFORD INSTITUTE OF TECHNOLOGY,455.0,475.0,True,False,False,False,False
+763,WD147,Pharmaceutical Science,WATERFORD INSTITUTE OF TECHNOLOGY,300.0,390.0,True,False,False,False,False
+764,WD148,Tourism Marketing,WATERFORD INSTITUTE OF TECHNOLOGY,275.0,330.0,True,False,False,False,False
+765,WD149,Early Childhood Studies,WATERFORD INSTITUTE OF TECHNOLOGY,300.0,330.0,True,False,False,False,False
+766,WD150,Criminal Justice,WATERFORD INSTITUTE OF TECHNOLOGY,290.0,325.0,True,False,False,False,False
+767,WD152,Visual Arts,WATERFORD INSTITUTE OF TECHNOLOGY,275.0,315.0,True,False,False,False,False
+768,WD160,Finance and Investment,WATERFORD INSTITUTE OF TECHNOLOGY,315.0,360.0,True,False,False,False,False
+769,WD161,Computer Forensics,WATERFORD INSTITUTE OF TECHNOLOGY,270.0,340.0,True,False,False,False,False
+770,WD162,Quantity Surveying,WATERFORD INSTITUTE OF TECHNOLOGY,310.0,345.0,True,False,False,False,False
+771,WD163,Psychology,WATERFORD INSTITUTE OF TECHNOLOGY,340.0,390.0,True,False,False,False,False
+772,WD816,Mature Applicants General Nursing,WATERFORD INSTITUTE OF TECHNOLOGY,174.0,184.0,True,True,False,False,False
+773,WD817,Mature Applicants Psychiatric Nursing,WATERFORD INSTITUTE OF TECHNOLOGY,160.0,165.0,True,True,False,False,False
+774,WD820,Mature Applicants Intellectual Disability Nursing,WATERFORD INSTITUTE OF TECHNOLOGY,157.0,160.0,True,True,False,False,False
+775,AL001,Business,ATHLONE IT,,285.0,False,False,False,True,False
+776,AL003,Office Management,ATHLONE IT,,235.0,False,False,False,True,False
+777,AL005,Front Office Management,ATHLONE IT,150.0,280.0,False,False,False,False,False
+778,AL006,Applied Social Studies in Social Care,ATHLONE IT,300.0,355.0,False,False,False,False,False
+779,AL007,Childcare Supervisory Management,ATHLONE IT,280.0,325.0,False,False,False,False,False
+780,AL010,Mechanical Engineering,ATHLONE IT,155.0,275.0,False,False,False,False,False
+781,AL011,Electronics and Computer Engineering,ATHLONE IT,125.0,235.0,False,False,False,False,False
+782,AL013,Civil Engineering,ATHLONE IT,135.0,275.0,False,False,False,False,False
+783,AL015,Construction Studies,ATHLONE IT,120.0,225.0,False,False,False,False,False
+784,AL016,Science (Bioscience/Chemistry),ATHLONE IT,190.0,405.0,False,False,False,False,False
+785,AL018,Hospitality Business Management,ATHLONE IT,,240.0,False,False,False,True,False
+786,AL020,Design (Communications),ATHLONE IT,760.0,860.0,False,True,False,False,False
+787,AL021,Biotechnology,ATHLONE IT,,275.0,False,False,False,True,False
+788,AL022,Business Computing,ATHLONE IT,130.0,250.0,False,False,False,False,False
+789,AL023,Accounting Technician,ATHLONE IT,105.0,285.0,False,False,False,False,False
+790,AL024,Engineering - Mechatronics,ATHLONE IT,165.0,215.0,False,False,False,False,False
+791,AL025,Business (Equine Studies),ATHLONE IT,,275.0,False,False,False,True,False
+792,AL027,Business (Sport and Recreation),ATHLONE IT,185.0,255.0,False,False,False,False,False
+793,AL028,Front Office and Tourism Management,ATHLONE IT,,225.0,False,False,False,True,False
+794,AL029,Veterinary Nursing,ATHLONE IT,375.0,440.0,False,False,False,False,False
+795,AL040,Financial Services,ATHLONE IT,185.0,335.0,False,False,False,False,False
+796,AL041,Pharmacy Technician,ATHLONE IT,225.0,320.0,False,False,False,False,False
+797,AL042,Dental Nursing,ATHLONE IT,215.0,305.0,False,False,False,False,False
+798,AL043,Music and Instrument Technology,ATHLONE IT,265.0,345.0,False,False,False,False,False
+799,AL044,Real Estate (Valuation and Management),ATHLONE IT,130.0,265.0,False,False,False,False,False
+800,AL046,Mobile Communications and Electronics,ATHLONE IT,135.0,245.0,False,False,False,False,False
+801,AL047,Computer Network Administration,ATHLONE IT,105.0,290.0,False,False,False,False,False
+802,PC402,Humanities,CARLOW COLLEGE,205.0,345.0,False,False,False,False,False
+803,PC404,Applied Social Studies in Social Care,CARLOW COLLEGE,260.0,315.0,False,False,False,False,False
+804,CW006,Business Studies (Wexford),IT CARLOW,,255.0,False,False,False,True,False
+805,CW007,Architectural Technology (Wexford),IT CARLOW,245.0,290.0,False,False,False,False,False
+806,CW016,Business - Office Management (Wexford),IT CARLOW,,200.0,False,False,False,True,False
+807,CW017,Applied Social Studies - Community Services (Wexford),IT CARLOW,270.0,305.0,False,False,False,False,False
+808,CW026,Architectural Graphics (Wexford),IT CARLOW,210.0,325.0,False,False,False,False,False
+809,CW027,Art (Wexford),IT CARLOW,700.0,885.0,False,True,False,False,False
+810,CW106,Physiology and Health Science,IT CARLOW,400.0,460.0,False,False,False,False,False
+811,CW107,Analytical Science,IT CARLOW,235.0,325.0,False,False,False,False,False
+812,CW116,Pharmacy Technician Studies,IT CARLOW,270.0,340.0,False,False,False,False,False
+813,CW117,Biosciences,IT CARLOW,260.0,370.0,False,False,False,False,False
+814,CW126,Science - Applied Biology or Applied Chemistry,IT CARLOW,,305.0,False,False,False,True,True
+815,CW206,"Computing - (Options: Applications, Commercial Programming)",IT CARLOW,,260.0,False,False,False,True,True
+816,CW207,Software Development,IT CARLOW,210.0,315.0,False,False,False,False,False
+817,CW217,Computer Systems Management,IT CARLOW,205.0,320.0,False,False,False,False,False
+818,CW406,Civil Engineering,IT CARLOW,220.0,295.0,False,False,False,False,False
+819,CW407,Architectural Technology,IT CARLOW,295.0,335.0,False,False,False,False,False
+820,CW416,Construction Studies,IT CARLOW,175.0,215.0,False,False,False,False,False
+821,CW417,Construction - Buildings and Services Management,IT CARLOW,200.0,260.0,False,False,False,False,False
+822,CW427,Civil Engineering,IT CARLOW,250.0,330.0,False,False,False,False,False
+823,CW507,Aircraft Systems,IT CARLOW,280.0,360.0,False,False,False,False,False
+824,CW517,Mechanical Engineering,IT CARLOW,215.0,300.0,False,False,False,False,False
+825,CW526,Avionics,IT CARLOW,280.0,320.0,False,False,False,False,False
+826,CW527,Electronic Engineering,IT CARLOW,195.0,265.0,False,False,False,False,False
+827,CW536,Electronic Engineering,IT CARLOW,,280.0,False,False,False,True,True
+828,CW546,Mechanical Engineering,IT CARLOW,135.0,255.0,False,False,False,False,False
+829,CW707,Design in Industrial Design,IT CARLOW,170.0,270.0,False,False,False,False,False
+830,CW717,Applied Social Studies - Community Services,IT CARLOW,280.0,315.0,False,False,False,False,False
+831,CW806,Accounting,IT CARLOW,185.0,350.0,False,False,False,False,False
+832,CW906,Business Studies,IT CARLOW,170.0,275.0,False,False,False,False,False
+833,CW907,Sport & Exercise (Rugby),IT CARLOW,700.0,700.0,False,True,False,False,False
+834,CW916,Business - Office Management,IT CARLOW,115.0,255.0,False,False,False,False,True
+835,CR001,Applied Physics,CORK IT,155.0,440.0,False,False,False,False,False
+836,CR006,Applied Biosciences,CORK IT,200.0,380.0,False,False,False,False,False
+837,CR007,Analytical and Pharmaceutical Chemistry,CORK IT,200.0,420.0,False,False,False,False,False
+838,CR010,Agriculture,CORK IT,165.0,345.0,False,False,False,False,False
+839,CR016,Computing,CORK IT,235.0,335.0,False,False,False,False,False
+840,CR021,Business Studies,CORK IT,280.0,380.0,False,False,False,False,False
+841,CR022,Business Studies (Business Administration),CORK IT,260.0,310.0,False,False,False,False,False
+842,CR023,Business Studies (Accounting),CORK IT,320.0,460.0,False,False,False,False,False
+843,CR031,Social Care,CORK IT,320.0,380.0,False,False,False,False,False
+844,CR032,Recreation and Leisure,CORK IT,315.0,370.0,False,False,False,False,False
+845,CR036,Design Communication,CORK IT,570.0,820.0,False,True,False,False,False
+846,CR041,Business Studies (Tourism),CORK IT,190.0,285.0,False,False,False,False,False
+847,CR042,Hospitality Management,CORK IT,210.0,290.0,False,False,False,False,False
+848,CR046,Transport Management and Technology (Automobile Technolo,CORK IT,,250.0,False,False,False,True,False
+849,CR051,Civil Engineering,CORK IT,300.0,415.0,False,False,False,False,False
+850,CR052,Construction,CORK IT,240.0,335.0,False,False,False,False,False
+851,CR053,Interior Architecture,CORK IT,280.0,385.0,False,False,False,False,False
+852,CR061,Electronic Engineering,CORK IT,,285.0,False,False,False,True,False
+853,CR062,Electrical Engineering,CORK IT,220.0,275.0,False,False,False,False,False
+854,CR071,Mechanical Engineering,CORK IT,270.0,385.0,False,False,False,False,False
+855,CR072,Building Services Engineering,CORK IT,,225.0,False,False,False,True,False
+856,CR075,Biomedical Engineering (Level 7),CORK IT,250.0,405.0,False,False,False,False,False
+857,CR085,Biomedical Science,CORK IT,400.0,480.0,False,False,False,False,False
+858,CR090,Architectural Technology (Level 7),CORK IT,390.0,450.0,False,False,False,False,False
+859,CR094,Nautical Science (at National Maritime College of Ireland),CORK IT,310.0,375.0,False,False,False,False,False
+860,CR095,Marine Engineering (at National Maritime College of Irl.),CORK IT,230.0,305.0,False,False,False,False,False
+861,CR201,Art and Design (at Crawford College of Art & Design),CORK IT,670.0,840.0,False,True,False,False,False
+862,CR620,Early Childhood Care and Education,CORK IT,320.0,400.0,False,False,False,False,False
+863,CR640,Culinary Arts,CORK IT,225.0,315.0,False,False,False,False,False
+864,CR650,Bar Management,CORK IT,190.0,280.0,False,False,False,False,False
+865,CR888,Information Technology Support,CORK IT,210.0,280.0,False,False,False,False,False
+866,DB513,Business,DUBLIN BUSINESS SCHOOL,130.0,260.0,False,False,False,False,False
+867,DB522,Business in Accounting,DUBLIN BUSINESS SCHOOL,,230.0,False,False,False,True,False
+868,DB533,Business in Marketing,DUBLIN BUSINESS SCHOOL,160.0,265.0,False,False,False,False,False
+869,DB563,Cultural Studies,DUBLIN BUSINESS SCHOOL,115.0,245.0,False,False,False,False,False
+870,DB571,Business Studies,DUBLIN BUSINESS SCHOOL,100.0,295.0,False,False,False,False,False
+871,DB572,Business in Accounting,DUBLIN BUSINESS SCHOOL,,300.0,False,False,False,True,False
+872,DB573,Business in Marketing,DUBLIN BUSINESS SCHOOL,115.0,305.0,False,False,False,False,False
+873,DB574,Business in Information Technology,DUBLIN BUSINESS SCHOOL,120.0,235.0,False,False,False,False,False
+874,DB575,Social Studies,DUBLIN BUSINESS SCHOOL,,295.0,False,False,False,True,False
+875,DB576,Film and Media,DUBLIN BUSINESS SCHOOL,,305.0,False,False,False,True,False
+876,DB577,Communications and Multimedia,DUBLIN BUSINESS SCHOOL,155.0,330.0,False,False,False,False,False
+877,DB580,Legal Studies (Level 6),DUBLIN BUSINESS SCHOOL,160.0,290.0,False,False,False,False,False
+878,DB581,Legal and Business Studies (Level 6),DUBLIN BUSINESS SCHOOL,165.0,190.0,False,False,False,False,False
+879,DB582,Legal Studies (Level 7),DUBLIN BUSINESS SCHOOL,,265.0,False,False,False,True,False
+880,DB583,Legal and Business Studies (Level 7),DUBLIN BUSINESS SCHOOL,,320.0,False,False,False,True,False
+881,DT002,Engineering Systems Maintenance,DUBLIN INSTITUTE of TECHNOLOGY,155.0,240.0,False,False,False,False,False
+882,DT003,Manutronics Automation,DUBLIN INSTITUTE of TECHNOLOGY,155.0,275.0,False,False,False,False,False
+883,DT004,Civil Engineering,DUBLIN INSTITUTE of TECHNOLOGY,360.0,435.0,False,False,False,False,False
+884,DT005,Building Services Engineering,DUBLIN INSTITUTE of TECHNOLOGY,225.0,305.0,False,False,False,False,False
+885,DT006,Mechanical Engineering,DUBLIN INSTITUTE of TECHNOLOGY,330.0,400.0,False,False,False,False,False
+886,DT007,Automotive Management and Technology,DUBLIN INSTITUTE of TECHNOLOGY,210.0,300.0,False,False,False,False,False
+887,DT008,Electronics and Communications Engineering,DUBLIN INSTITUTE of TECHNOLOGY,170.0,300.0,False,False,False,False,False
+888,DT009,Electrical and Control Systems,DUBLIN INSTITUTE of TECHNOLOGY,75.0,290.0,False,False,False,False,False
+889,DT010,Electrical Services Engineering,DUBLIN INSTITUTE of TECHNOLOGY,245.0,300.0,False,False,False,False,False
+890,DT020,Preliminary Engineering,DUBLIN INSTITUTE of TECHNOLOGY,215.0,370.0,False,False,False,False,False
+891,DT089,Electronic and Computer Systems,DUBLIN INSTITUTE of TECHNOLOGY,135.0,305.0,False,False,False,False,False
+892,DT104,"Auctioneering, Valuation and Estate Agency",DUBLIN INSTITUTE of TECHNOLOGY,280.0,370.0,False,False,False,False,False
+893,DT105,Architectural Technology,DUBLIN INSTITUTE of TECHNOLOGY,380.0,445.0,False,False,False,False,False
+894,DT206,Biosciences,DUBLIN INSTITUTE of TECHNOLOGY,110.0,410.0,False,False,False,False,False
+895,DT207,Industrial and Environmental Physics,DUBLIN INSTITUTE of TECHNOLOGY,235.0,395.0,False,False,False,False,False
+896,DT208,Medicinal Chemistry and Pharmaceutical Sciences,DUBLIN INSTITUTE of TECHNOLOGY,205.0,450.0,False,False,False,False,False
+897,DT212,Physical and Life Sciences,DUBLIN INSTITUTE of TECHNOLOGY,170.0,400.0,False,False,False,False,False
+898,DT303,Marketing,DUBLIN INSTITUTE of TECHNOLOGY,340.0,400.0,False,False,False,False,False
+899,DT315,Business Studies,DUBLIN INSTITUTE of TECHNOLOGY,320.0,395.0,False,False,False,False,False
+900,DT324,Business Management,DUBLIN INSTITUTE of TECHNOLOGY,330.0,400.0,False,False,False,False,False
+901,DT360,Retail Management and Marketing,DUBLIN INSTITUTE of TECHNOLOGY,280.0,335.0,False,False,False,False,False
+902,DT406,Tourism,DUBLIN INSTITUTE of TECHNOLOGY,245.0,340.0,False,False,False,False,False
+903,DT408,Hotel and Restaurant Management,DUBLIN INSTITUTE of TECHNOLOGY,245.0,335.0,False,False,False,False,False
+904,DT411,Leisure Management,DUBLIN INSTITUTE of TECHNOLOGY,305.0,355.0,False,False,False,False,False
+905,DT418,Baking and Pastry Arts Management,DUBLIN INSTITUTE of TECHNOLOGY,125.0,360.0,False,False,False,False,False
+906,DT425,Pharmacy Technician Studies,DUBLIN INSTITUTE of TECHNOLOGY,210.0,345.0,False,False,False,False,False
+907,DT444,Culinary Arts (Catering for Health),DUBLIN INSTITUTE of TECHNOLOGY,135.0,315.0,False,False,False,False,False
+908,DT481,Food Processing/Pharmaceutical Manufacture,DUBLIN INSTITUTE of TECHNOLOGY,75.0,315.0,False,False,False,False,False
+909,DT515,Design - Display,DUBLIN INSTITUTE of TECHNOLOGY,350.0,740.0,False,True,False,False,False
+910,DT527,Music Foundation,DUBLIN INSTITUTE of TECHNOLOGY,260.0,400.0,False,True,False,False,False
+911,DT529,Drama (Performance),DUBLIN INSTITUTE of TECHNOLOGY,355.0,500.0,False,True,False,False,False
+912,DL131,Computing in Multimedia Programming,DUN LAOGHAIRE IADT,230.0,320.0,False,False,False,False,False
+913,DL132,Audio Visual Media Technology,DUN LAOGHAIRE IADT,200.0,325.0,False,False,False,False,False
+914,DL231,Business Studies - Enterprise,DUN LAOGHAIRE IADT,200.0,315.0,False,False,False,False,False
+915,GC210,Marketing,GRIFFITH COLLEGE DUBLIN,125.0,280.0,False,False,False,False,False
+916,GC211,Business,GRIFFITH COLLEGE DUBLIN,170.0,340.0,False,False,False,False,False
+917,GC216,Business,GRIFFITH COLLEGE DUBLIN,225.0,230.0,False,False,False,False,False
+918,GC218,Travel and Tourism,GRIFFITH COLLEGE DUBLIN,220.0,310.0,False,False,False,False,False
+919,GC265,Journalism,GRIFFITH COLLEGE DUBLIN,,320.0,False,False,False,True,False
+920,GC410,Marketing,GRIFFITH COLLEGE DUBLIN,135.0,280.0,False,False,False,False,False
+921,GC411,Business,GRIFFITH COLLEGE DUBLIN,105.0,270.0,False,False,False,False,False
+922,GC415,Legal Studies,GRIFFITH COLLEGE DUBLIN,120.0,350.0,False,False,False,False,False
+923,GC416,Business,GRIFFITH COLLEGE DUBLIN,,260.0,False,False,False,True,False
+924,GC435,Computing,GRIFFITH COLLEGE DUBLIN,145.0,275.0,False,False,False,False,False
+925,GC440,Computing,GRIFFITH COLLEGE DUBLIN,140.0,285.0,False,False,False,False,False
+926,GC465,Journalism,GRIFFITH COLLEGE DUBLIN,,315.0,False,False,False,True,False
+927,GC470,Photographic Media,GRIFFITH COLLEGE DUBLIN,,270.0,False,False,False,True,False
+928,GC490,Interior Design,GRIFFITH COLLEGE DUBLIN,120.0,285.0,False,False,False,False,False
+929,GC495,Fashion Design (Level 7),GRIFFITH COLLEGE DUBLIN,220.0,305.0,False,True,False,False,False
+930,BY001,Business (Level 6),"INSTITUTE OF BUSINESS AND TECHNOLOGY, SWORDS",,125.0,False,False,False,True,False
+931,BY051,Business (Level 7),"INSTITUTE OF BUSINESS AND TECHNOLOGY, SWORDS",175.0,270.0,False,False,False,False,False
+932,BN001,Engineering (Electronics and Computer Engineering),IT BLANCHARDSTOWN,194.0,245.0,False,False,False,False,False
+933,BN002,Computing (Information Technology),IT BLANCHARDSTOWN,170.0,235.0,False,False,False,False,False
+934,BN003,Business,IT BLANCHARDSTOWN,170.0,263.0,False,False,False,False,False
+935,BN004,Business with Information Technology and a Language,IT BLANCHARDSTOWN,195.0,360.0,False,False,False,False,False
+936,BN007,"Horticulture (with Salesian College of Horticulture, Co Meath)",IT BLANCHARDSTOWN,,240.0,False,False,False,True,False
+937,BN008,"Horticulture (with College of Amenity Horticulture, Dublin 9)",IT BLANCHARDSTOWN,,300.0,False,False,False,True,False
+938,BN009,Engineering (Mechatronics),IT BLANCHARDSTOWN,200.0,320.0,False,False,False,False,False
+939,BN010,Business and Information Technology,IT BLANCHARDSTOWN,210.0,300.0,False,False,False,False,False
+940,BN011,Applied Social Studies in Social Care,IT BLANCHARDSTOWN,320.0,370.0,False,False,False,False,False
+941,BN012,Engineering (Computer Engineering),IT BLANCHARDSTOWN,170.0,285.0,False,False,False,False,False
+942,BN013,Computing (Information Technology),IT BLANCHARDSTOWN,,245.0,False,False,False,True,False
+943,BN014,Business,IT BLANCHARDSTOWN,170.0,275.0,False,False,False,False,False
+944,BN015,"Engineering (options:computer engineering, mechatronics)",IT BLANCHARDSTOWN,,270.0,False,False,False,True,False
+945,BN016,"Business (business, IT, language, intl business, accounting & fi",IT BLANCHARDSTOWN,,250.0,False,False,False,True,False
+946,BN017,International Business,IT BLANCHARDSTOWN,215.0,345.0,False,False,False,False,False
+947,BN018,International Business,IT BLANCHARDSTOWN,260.0,325.0,False,False,False,False,False
+948,BN019,Sports Coaching and Administration,IT BLANCHARDSTOWN,260.0,310.0,False,False,False,False,False
+949,BN020,Sports Management and Coaching,IT BLANCHARDSTOWN,260.0,325.0,False,False,False,False,False
+950,BN021,Creative Digital Media (Level 7/6),IT BLANCHARDSTOWN,215.0,310.0,False,False,False,False,False
+951,TA101,Business - Accounting,IT TALLAGHT,200.0,290.0,False,False,False,False,False
+952,TA102,Business - Business Administration,IT TALLAGHT,200.0,285.0,False,False,False,False,False
+953,TA103,Business - Marketing,IT TALLAGHT,200.0,285.0,False,False,False,False,False
+954,TA111,Business - Accounting,IT TALLAGHT,200.0,315.0,False,False,False,False,False
+955,TA112,Business - Wine and Beverage Management,IT TALLAGHT,,220.0,False,False,False,True,False
+956,TA113,Business - Management,IT TALLAGHT,200.0,305.0,False,False,False,False,False
+957,TA114,Business - Marketing,IT TALLAGHT,200.0,295.0,False,False,False,False,False
+958,TA201,Engineering - Electronic Engineering,IT TALLAGHT,,240.0,False,False,False,True,False
+959,TA202,Engineering - Electro-Mechanical Engineering,IT TALLAGHT,105.0,245.0,False,False,False,False,False
+960,TA203,Engineering - Mechanical Engineering,IT TALLAGHT,,215.0,False,False,False,True,False
+961,TA213,Engineering - Mechanical Engineering,IT TALLAGHT,205.0,315.0,False,False,False,False,False
+962,TA301,Science - Applied Biology or Applied Chemistry,IT TALLAGHT,,310.0,False,False,False,True,False
+963,TA302,Science - Computing,IT TALLAGHT,110.0,205.0,False,False,False,False,False
+964,TA311,Science - Bioanalysis or Chemical Analysis,IT TALLAGHT,160.0,305.0,False,False,False,False,False
+965,TA312,Science - Computing,IT TALLAGHT,155.0,280.0,False,False,False,False,False
+966,TA313,Science - Information Technology Management,IT TALLAGHT,,245.0,False,False,False,True,False
+967,NC008,Management of Technology in Business,NATIONAL COLLEGE OF IRELAND,165.0,270.0,False,False,False,False,False
+968,NC018,Management of Technology in Business - ABP Applicants,NATIONAL COLLEGE OF IRELAND,285.0,285.0,False,False,False,False,False
+969,NC102,Computing in Applications and Support,NATIONAL COLLEGE OF IRELAND,170.0,265.0,False,False,False,False,False
+970,NC103,Business,NATIONAL COLLEGE OF IRELAND,200.0,300.0,False,False,False,False,False
+971,NC202,Computing in Applications and Support - ABP Applicants,NATIONAL COLLEGE OF IRELAND,205.0,205.0,False,False,False,False,False
+972,NC203,Business - Area Based Partnership Applicants,NATIONAL COLLEGE OF IRELAND,215.0,235.0,False,False,False,False,False
+973,PB203,Business Studies,PORTOBELLO COLLEGE,,280.0,False,False,False,True,False
+974,PB204,Business Studies (Accounting),PORTOBELLO COLLEGE,165.0,280.0,False,False,False,False,False
+975,PB205,Business Studies (Computer Applications),PORTOBELLO COLLEGE,255.0,420.0,False,False,False,False,False
+976,PB206,Business Studies (Marketing),PORTOBELLO COLLEGE,160.0,270.0,False,False,False,False,False
+977,TR801,Dental Nursing,TRINITY COLLEGE DUBLIN,300.0,395.0,False,False,False,False,False
+978,TR802,Dental Hygiene,TRINITY COLLEGE DUBLIN,425.0,480.0,False,True,True,False,False
+979,TR803,Dental Technology,TRINITY COLLEGE DUBLIN,320.0,385.0,False,True,False,False,False
+980,TR804,Deaf Studies,TRINITY COLLEGE DUBLIN,265.0,420.0,False,False,False,False,False
+981,TR805,Irish Sign Language/English Interpreting,TRINITY COLLEGE DUBLIN,355.0,455.0,False,False,False,False,False
+982,DK685,Agriculture,DUNDALK IT,,275.0,False,False,False,True,False
+983,DK710,Business Studies - Management and Administration,DUNDALK IT,135.0,280.0,False,False,False,False,False
+984,DK711,Business and Information Systems,DUNDALK IT,190.0,315.0,False,False,False,False,True
+985,DK721,Computing (incorporating 3 award options),DUNDALK IT,115.0,280.0,False,False,False,False,False
+986,DK740,Engineering - Electrical and Electronic Systems,DUNDALK IT,205.0,305.0,False,False,False,False,False
+987,DK742,Engineering - Mechanical Engineering,DUNDALK IT,215.0,300.0,False,False,False,False,False
+988,DK744,Engineering - Civil Engineering,DUNDALK IT,145.0,290.0,False,False,False,False,False
+989,DK745,Building,DUNDALK IT,190.0,280.0,False,False,False,False,False
+990,DK750,Business - Hospitality Management,DUNDALK IT,200.0,265.0,False,False,False,False,False
+991,DK752,Business - Event Management,DUNDALK IT,230.0,335.0,False,False,False,False,False
+992,DK760,Applied Cultural Studies,DUNDALK IT,165.0,300.0,False,False,False,False,False
+993,DK761,Applied Cultural Studies (Language),DUNDALK IT,165.0,385.0,False,False,False,False,False
+994,DK762,Communications (Creative Multimedia),DUNDALK IT,250.0,360.0,False,False,False,False,False
+995,DK763,Community Sports Leadership,DUNDALK IT,260.0,315.0,False,False,False,False,False
+996,DK764,Applied Social Studies (Social Care),DUNDALK IT,310.0,375.0,False,False,True,False,False
+997,DK765,Video and Film,DUNDALK IT,290.0,370.0,False,False,False,False,False
+998,DK781,Science - Applied Bioscience,DUNDALK IT,200.0,350.0,False,False,False,False,False
+999,DK782,Science - Food Science and Health,DUNDALK IT,195.0,335.0,False,False,False,False,False
+1000,DK783,Science - Pharmaceutical Science,DUNDALK IT,145.0,310.0,False,False,False,False,False
+1001,DK784,Veterinary Nursing,DUNDALK IT,275.0,355.0,False,False,False,False,False
+1002,GA170,Business,GALWAY-MAYO IT,320.0,390.0,False,False,False,False,False
+1003,GA171,Administration and Information Systems,GALWAY-MAYO IT,250.0,300.0,False,False,False,False,False
+1004,GA172,Rural Enterprise & Agri-Business (Year 1 at Mountbellew),GALWAY-MAYO IT,180.0,270.0,False,False,False,False,False
+1005,GA173,Gnó agus Cumarsáid,GALWAY-MAYO IT,170.0,345.0,False,False,False,False,False
+1006,GA270,Art and Design,GALWAY-MAYO IT,457.0,735.0,False,False,False,False,False
+1007,GA271,Film and Television,GALWAY-MAYO IT,700.0,833.0,False,False,False,False,False
+1008,GA272,Heritage Studies,GALWAY-MAYO IT,205.0,340.0,False,False,False,False,False
+1009,GA370,Hotel & Catering Management,GALWAY-MAYO IT,140.0,270.0,False,False,False,False,False
+1010,GA372,Culinary Arts,GALWAY-MAYO IT,140.0,270.0,False,False,False,False,False
+1011,GA373,Bar Management,GALWAY-MAYO IT,140.0,250.0,False,False,False,False,False
+1012,GA374,Tourism Management,GALWAY-MAYO IT,140.0,285.0,False,False,False,False,False
+1013,GA375,Retail and Customer Service Management,GALWAY-MAYO IT,140.0,290.0,False,False,False,False,False
+1014,GA470,Construction Management,GALWAY-MAYO IT,310.0,360.0,False,False,False,False,False
+1015,GA471,Construction Economics and Quantity Surveying,GALWAY-MAYO IT,365.0,400.0,False,False,False,False,False
+1016,GA472,Architectural Technology,GALWAY-MAYO IT,365.0,415.0,False,False,False,False,False
+1017,GA473,Civil Engineering,GALWAY-MAYO IT,375.0,435.0,False,False,False,False,False
+1018,GA570,Computer and Electronic Engineering,GALWAY-MAYO IT,255.0,325.0,False,False,False,False,False
+1019,GA571,Computer and Electronic Systems,GALWAY-MAYO IT,145.0,285.0,False,False,False,False,False
+1020,GA670,Mechanical Engineering,GALWAY-MAYO IT,300.0,365.0,False,False,False,False,False
+1021,GA672,Engineering with Management,GALWAY-MAYO IT,140.0,285.0,False,False,False,False,True
+1022,GA770,Applied Freshwater and Marine Biology,GALWAY-MAYO IT,240.0,330.0,False,False,False,False,False
+1023,GA771,Applied Biology and Biopharmaceutical Science,GALWAY-MAYO IT,240.0,400.0,False,False,False,False,False
+1024,GA772,Chemical and Pharmaceutical Science,GALWAY-MAYO IT,255.0,405.0,False,False,False,False,False
+1025,GA773,Physics and Instrumentation,GALWAY-MAYO IT,310.0,375.0,False,False,False,False,False
+1026,GA774,Science (Undenominated),GALWAY-MAYO IT,250.0,395.0,False,False,False,False,False
+1027,GA775,Computing in Software Development,GALWAY-MAYO IT,195.0,295.0,False,False,False,False,False
+1028,GA776,Business Computing and Digital Media,GALWAY-MAYO IT,160.0,260.0,False,False,False,False,False
+1029,GA777,Agriculture and Environmental Management (Mountbellew),GALWAY-MAYO IT,265.0,330.0,False,False,False,False,False
+1030,GA869,Business in Computer Applications (Castlebar),GALWAY-MAYO IT,160.0,295.0,False,False,False,False,False
+1031,GA870,Outdoor Education and Leisure (Castlebar),GALWAY-MAYO IT,200.0,295.0,False,False,False,False,False
+1032,GA871,Tourism (Castlebar),GALWAY-MAYO IT,155.0,260.0,False,False,False,False,False
+1033,GA872,Heritage Studies (Castlebar),GALWAY-MAYO IT,150.0,295.0,False,False,False,False,False
+1034,GA873,Architectural Technology (Castlebar),GALWAY-MAYO IT,220.0,320.0,False,False,False,False,False
+1035,GA874,Outdoor Education and Leisure with Geography (Castlebar),GALWAY-MAYO IT,200.0,330.0,False,False,False,False,False
+1036,GA875,Construction Mgmt. in Refurbishment & Maintenance (Castleb,GALWAY-MAYO IT,150.0,240.0,False,False,False,False,False
+1037,GA877,Business Studies (Castlebar),GALWAY-MAYO IT,160.0,290.0,False,False,False,False,False
+1038,GA878,Accounting and Financial Management (Castlebar),GALWAY-MAYO IT,145.0,350.0,False,False,False,False,False
+1039,GA970,Furniture Design and Manufacture (Letterfrack),GALWAY-MAYO IT,330.0,380.0,False,False,False,False,False
+1040,GA971,Furniture Production and Technology (Letterfrack),GALWAY-MAYO IT,290.0,355.0,False,False,False,False,False
+1041,LY107,Business,LETTERKENNY IT,,305.0,False,False,False,True,False
+1042,LY117,Administrative Management,LETTERKENNY IT,115.0,250.0,False,False,False,False,False
+1043,LY127,Córais Faisnéis Oifige,LETTERKENNY IT,295.0,295.0,False,False,False,False,False
+1044,LY137,Sports Development and Coaching,LETTERKENNY IT,255.0,310.0,False,False,False,False,False
+1045,LY207,Law,LETTERKENNY IT,,325.0,False,False,False,True,False
+1046,LY217,Languages and International Business,LETTERKENNY IT,190.0,414.0,False,False,False,False,False
+1047,LY306,Front Office Management at Killybegs,LETTERKENNY IT,135.0,235.0,False,False,False,False,False
+1048,LY307,International Tourism and Hospitality Enterprise at Killybeg,LETTERKENNY IT,160.0,265.0,False,False,False,False,False
+1049,LY317,International Culinary Enterprise at Killybegs,LETTERKENNY IT,160.0,260.0,False,False,False,False,False
+1050,LY407,Graphic Design,LETTERKENNY IT,,320.0,False,False,False,True,False
+1051,LY417,Product Design,LETTERKENNY IT,,270.0,False,False,False,True,False
+1052,LY427,Creative Digital Media,LETTERKENNY IT,100.0,270.0,False,False,False,False,False
+1053,LY507,Quantity Surveying,LETTERKENNY IT,200.0,302.0,False,False,False,False,False
+1054,LY527,Civil Engineering,LETTERKENNY IT,165.0,295.0,False,False,False,False,False
+1055,LY537,Construction Technology,LETTERKENNY IT,,250.0,False,False,False,True,False
+1056,LY547,Architectural Technology,LETTERKENNY IT,100.0,285.0,False,False,False,False,False
+1057,LY607,Electronic Engineering,LETTERKENNY IT,,250.0,False,False,False,True,False
+1058,LY617,Mechanical Engineering,LETTERKENNY IT,,280.0,False,False,False,True,False
+1059,LY627,Computer Engineering,LETTERKENNY IT,,225.0,False,False,False,True,False
+1060,LY707,Computer Games Development,LETTERKENNY IT,,270.0,False,False,False,True,False
+1061,LY717,Computing with Business Applications,LETTERKENNY IT,105.0,255.0,False,False,False,False,False
+1062,LY727,Computing with Network and Mobile Communications,LETTERKENNY IT,,215.0,False,False,False,True,False
+1063,LY737,Computer Security & Digital Forensics,LETTERKENNY IT,115.0,245.0,False,False,False,False,False
+1064,LY817,Bioscience,LETTERKENNY IT,110.0,285.0,False,False,False,False,False
+1065,LY827,Analytical and Forensic Science,LETTERKENNY IT,,330.0,False,False,False,True,False
+1066,LY837,Food Science and Nutrition,LETTERKENNY IT,100.0,315.0,False,False,False,False,False
+1067,LY847,Veterinary Nursing,LETTERKENNY IT,185.0,345.0,False,False,False,False,False
+1068,LY907,"Early Childhood Care, Health and Education",LETTERKENNY IT,305.0,360.0,False,False,True,False,False
+1069,LY917,Health and Social Studies,LETTERKENNY IT,210.0,305.0,False,False,False,False,True
+1070,LC211,Business Studies (Accounting/Finance),LIMERICK IT,300.0,405.0,False,False,False,False,False
+1071,LC221,Business Studies (Marketing and Management),LIMERICK IT,270.0,355.0,False,False,False,False,False
+1072,LC321,Business Computing,LIMERICK IT,200.0,265.0,False,False,False,False,False
+1073,LC351,Internet Systems Development,LIMERICK IT,190.0,315.0,False,False,False,False,False
+1074,LC371,eOffice Administration Systems,LIMERICK IT,200.0,285.0,False,False,False,False,False
+1075,LC411,Construction,LIMERICK IT,200.0,290.0,False,False,False,False,False
+1076,LC451,Engineering (Civil),LIMERICK IT,250.0,355.0,False,False,False,False,False
+1077,LC611,Science (Applied Chemistry),LIMERICK IT,245.0,455.0,False,False,False,False,False
+1078,LC621,Science (Environmental and Analytical),LIMERICK IT,210.0,340.0,False,False,False,False,False
+1079,LC631,Science (Applied Biology),LIMERICK IT,210.0,380.0,False,False,False,False,False
+1080,LC701,Music Technology and Production,LIMERICK IT,350.0,410.0,False,False,False,False,False
+1081,LC761,Technology (Video and Sound),LIMERICK IT,275.0,320.0,False,False,False,False,False
+1082,LC771,Automation and Control Technology,LIMERICK IT,230.0,275.0,False,False,False,False,False
+1083,LC781,Renewable and Electrical Energy Systems,LIMERICK IT,220.0,355.0,False,False,False,False,False
+1084,LC791,Electronic Engineering,LIMERICK IT,190.0,290.0,False,False,False,False,False
+1085,LC811,Technology (Automobile),LIMERICK IT,190.0,250.0,False,False,False,False,False
+1086,LC821,Engineering (Mechanical and Manufacturing),LIMERICK IT,215.0,240.0,False,False,False,False,False
+1087,LC841,Technology (Agricultural Mechanisation) - Salesian Agricultu,LIMERICK IT,180.0,295.0,False,False,False,False,False
+1088,LC851,Mechanical Engineering,LIMERICK IT,240.0,350.0,False,False,False,False,False
+1089,LC861,Road Transport Technology and Management,LIMERICK IT,180.0,280.0,False,False,False,False,False
+1090,LC961,Front Office Management,LIMERICK IT,180.0,255.0,False,False,False,False,False
+1091,CI001,Counselling Studies and Psychometric Testing,NATIONAL COUNSELLING INSTITUTE,270.0,385.0,False,False,False,False,False
+1092,CI002,Counselling Skills and Addiction Studies,NATIONAL COUNSELLING INSTITUTE,115.0,320.0,False,False,False,False,False
+1093,CI005,Youth and Counselling Studies,NATIONAL COUNSELLING INSTITUTE,,275.0,False,False,False,True,False
+1094,LM180,Equine Science,UNIVERSITY OF LIMERICK,265.0,375.0,False,False,False,False,False
+1095,SG101,Business (Level 6),IT SLIGO,,270.0,False,False,False,True,False
+1096,SG105,Business in Office Administration,IT SLIGO,,225.0,False,False,False,True,False
+1097,SG108,Business in Accounting,IT SLIGO,,285.0,False,False,False,True,False
+1098,SG134,Business in Recreation and Leisure,IT SLIGO,280.0,325.0,False,False,False,False,False
+1099,SG135,Business in Tourism,IT SLIGO,140.0,260.0,False,False,False,False,False
+1100,SG136,Computing - Software Development,IT SLIGO,150.0,255.0,False,False,False,False,False
+1101,SG137,Computing - Systems and Networking,IT SLIGO,165.0,255.0,False,False,False,False,False
+1102,SG138,Computing - Database Management,IT SLIGO,145.0,230.0,False,False,False,False,False
+1103,SG139,Business in Financial Services,IT SLIGO,165.0,295.0,False,False,False,False,False
+1104,SG231,Fine Art,IT SLIGO,535.0,775.0,False,True,False,False,False
+1105,SG232,Creative Design and Innovation,IT SLIGO,145.0,290.0,False,False,False,False,False
+1106,SG233,Applied Social Studies in Social Care,IT SLIGO,320.0,370.0,False,False,False,False,False
+1107,SG333,Engineering in Mechanical Engineering,IT SLIGO,140.0,270.0,False,False,False,False,False
+1108,SG334,Engineering in Mechatronics,IT SLIGO,140.0,265.0,False,False,False,False,False
+1109,SG335,Quality Engineering,IT SLIGO,,,False,False,False,False,False
+1110,SG336,Interior Architecture,IT SLIGO,205.0,325.0,False,False,False,False,False
+1111,SG337,Engineering in Electronic Engineering,IT SLIGO,150.0,255.0,False,False,False,False,False
+1112,SG338,Engineering in Civil Engineering,IT SLIGO,270.0,350.0,False,False,False,False,False
+1113,SG339,Construction,IT SLIGO,220.0,285.0,False,False,False,False,False
+1114,SG402,Fisheries Management,IT SLIGO,,570.0,False,True,False,False,False
+1115,SG432,Environmental Protection,IT SLIGO,200.0,335.0,False,False,False,False,False
+1116,SG433,Occupational Safety and Health,IT SLIGO,280.0,345.0,False,False,False,False,False
+1117,SG435,Health Science and Physiology,IT SLIGO,340.0,400.0,False,False,False,False,False
+1118,SG436,Biomedical Science,IT SLIGO,205.0,365.0,False,False,False,False,False
+1119,SG531,Business in Marketing - PR with Events Management,IT SLIGO,140.0,305.0,False,False,False,False,False
+1120,SG532,Business in Marketing with Languages,IT SLIGO,205.0,340.0,False,False,False,False,False
+1121,SG533,Business in Marketing,IT SLIGO,145.0,265.0,False,False,False,False,False
+1122,SG534,Business in Marketing in International Marketing,IT SLIGO,175.0,250.0,False,False,False,False,False
+1123,SG535,Business in Marketing in Services Marketing,IT SLIGO,195.0,255.0,False,False,False,False,False
+1124,SG536,Applied Business,IT SLIGO,160.0,270.0,False,False,False,False,False
+1125,SG537,Ecotourism and Green Event Management,IT SLIGO,,,False,False,False,False,False
+1126,TI001,Business,TIPPERARY INSTITUTE,100.0,260.0,False,False,False,False,False
+1127,TI002,Sustainable Rural Development,TIPPERARY INSTITUTE,115.0,300.0,False,False,False,False,False
+1128,TI003,Computing,TIPPERARY INSTITUTE,105.0,210.0,False,False,False,False,False
+1129,TI006,Computing (IT Support),TIPPERARY INSTITUTE,140.0,215.0,False,False,False,False,False
+1130,TI009,Computing,TIPPERARY INSTITUTE,215.0,280.0,False,False,False,False,False
+1131,TI016,Computing - IT Support,TIPPERARY INSTITUTE,125.0,255.0,False,False,False,False,False
+1132,TI019,Business,TIPPERARY INSTITUTE,140.0,270.0,False,False,False,False,False
+1133,TI101,Business,TIPPERARY INSTITUTE,100.0,225.0,False,False,False,False,False
+1134,TI104,Information Technology - Creative Multimedia,TIPPERARY INSTITUTE,150.0,220.0,False,False,False,False,False
+1135,TI114,Information Technology - Creative Multimedia,TIPPERARY INSTITUTE,125.0,180.0,False,False,False,False,False
+1136,TI119,Business,TIPPERARY INSTITUTE,190.0,320.0,False,False,False,False,False
+1137,TL125,Information Systems Management,IT TRALEE,250.0,360.0,False,False,False,False,False
+1138,TL187,Adventure Tourism Management,IT TRALEE,,215.0,False,False,False,True,True
+1139,TL190,Applied Social Studies,IT TRALEE,300.0,365.0,False,False,False,False,False
+1140,TL195,Youth and Community Work Practice,IT TRALEE,220.0,275.0,False,False,False,False,False
+1141,TL210,Advanced Business Studies,IT TRALEE,395.0,440.0,False,False,False,False,False
+1142,TL220,Business Studies,IT TRALEE,175.0,305.0,False,False,False,False,False
+1143,TL310,Computing,IT TRALEE,215.0,355.0,False,False,False,False,False
+1144,TL325,Computing with Games Development,IT TRALEE,205.0,330.0,False,False,False,False,False
+1145,TL350,Business Studies (Office Information Systems),IT TRALEE,215.0,275.0,False,False,False,False,False
+1146,TL355,Computing with Multimedia,IT TRALEE,230.0,325.0,False,False,False,False,False
+1147,TL420,Science (Applied Biology),IT TRALEE,230.0,400.0,False,False,False,False,False
+1148,TL425,Pharmaceutical Analysis with Forensics,IT TRALEE,225.0,340.0,False,False,False,False,False
+1149,TL430,Science (Biological and Environmental Studies),IT TRALEE,260.0,370.0,False,False,False,False,False
+1150,TL480,Science (Health and Leisure Studies),IT TRALEE,325.0,390.0,False,False,False,False,False
+1151,TL482,Health & Leisure with Massage,IT TRALEE,240.0,335.0,False,False,False,False,False
+1152,TL600,Quantity Surveying,IT TRALEE,205.0,330.0,False,False,False,False,False
+1153,TL620,Engineering (Civil),IT TRALEE,220.0,310.0,False,False,False,False,False
+1154,TL630,Construction,IT TRALEE,105.0,235.0,False,False,False,False,False
+1155,TL650,Engineering (Agricultural),IT TRALEE,200.0,300.0,False,False,False,False,False
+1156,TL660,Engineering in Construction Plant,IT TRALEE,195.0,290.0,False,False,False,False,False
+1157,TL670,Engineering (Mechanical),IT TRALEE,,240.0,False,False,False,True,False
+1158,TL690,Engineering (Mechanical and Electronic),IT TRALEE,340.0,340.0,False,False,False,False,False
+1159,WD003,Business Studies,WATERFORD IT,240.0,320.0,False,False,False,False,False
+1160,WD008,Science (Pharmaceutical Science or Applied Biology),WATERFORD IT,215.0,370.0,False,False,False,False,False
+1161,WD009,Agricultural Science,WATERFORD IT,215.0,330.0,False,False,False,False,False
+1162,WD010,Electronics Engineering,WATERFORD IT,200.0,280.0,False,False,False,False,False
+1163,WD011,Mechanical Engineering,WATERFORD IT,200.0,270.0,False,False,False,False,False
+1164,WD013,Legal Studies,WATERFORD IT,260.0,350.0,False,False,False,False,False
+1165,WD018,Applied Social Studies in Social Care,WATERFORD IT,255.0,325.0,False,False,False,False,False
+1166,WD019,Recreation and Sport Management,WATERFORD IT,310.0,365.0,False,False,False,False,False
+1167,WD039,Hospitality Operations,WATERFORD IT,200.0,265.0,False,False,False,False,False
+1168,WD040,Building Services Engineering,WATERFORD IT,205.0,275.0,False,False,False,False,False
+1169,WD076,Forestry,WATERFORD IT,205.0,300.0,False,False,False,False,False
+1170,WD094,Architectural Technology,WATERFORD IT,310.0,370.0,False,False,False,False,False
+1171,WD096,Horticulture,WATERFORD IT,215.0,325.0,False,False,False,False,False
+1172,WD098,Agriculture,WATERFORD IT,210.0,345.0,False,False,False,False,False
+1173,WD139,Civil Engineering,WATERFORD IT,260.0,330.0,False,False,False,False,False
+1174,WD151,Software Systems Development,WATERFORD IT,225.0,315.0,False,False,False,False,False
+1175,WD153,Multimedia Applications,WATERFORD IT,200.0,315.0,False,False,False,False,False
+1176,WD155,Information Technology,WATERFORD IT,215.0,320.0,False,False,False,False,False
+1177,WD159,Business,WATERFORD IT,240.0,360.0,False,False,False,False,False
+1178,WD164,Food Science with Business,WATERFORD IT,210.0,345.0,False,False,False,False,False
