@@ -941,37 +941,37 @@ WD200,Arts,WATERFORD INSTITUTE OF TECHNOLOGY,280.0,325.0,True,False,False,False,
 WD816,Mature Applicants General Nursing,WATERFORD INSTITUTE OF TECHNOLOGY,183.0,186.0,True,True,False,False,False
 WD817,Mature Applicants Psychiatric Nursing,WATERFORD INSTITUTE OF TECHNOLOGY,159.0,168.0,True,True,True,False,False
 WD820,Mature Applicants Intellectual Disability Nursing,WATERFORD INSTITUTE OF TECHNOLOGY,154.0,169.0,True,True,False,False,False
-AL601,Electronics and Computer Engineering,ATHLONE IT,185.0,290.0,False,False,False,False,False
-AL602,Mechanical Engineering,ATHLONE IT,180.0,255.0,False,False,False,False,False
-AL604,Civil Engineering,ATHLONE IT,95.0,250.0,False,False,False,False,False
-AL630,Pharmacy Technician,ATHLONE IT,320.0,390.0,False,False,False,False,False
-AL631,Dental Nursing,ATHLONE IT,265.0,335.0,False,False,False,False,False
-AL632,Science (Bioscience/Chemistry),ATHLONE IT,120.0,285.0,False,False,False,False,False
-AL650,Business,ATHLONE IT,185.0,330.0,False,False,False,False,False
-AL651,Music and Instrument Technology,ATHLONE IT,200.0,305.0,False,False,False,False,False
-AL652,Business in Equine Studies,ATHLONE IT,,290.0,False,False,False,True,False
-AL653,Office Management,ATHLONE IT,115.0,310.0,False,False,False,False,False
-AL654,Accounting Technician,ATHLONE IT,,220.0,False,False,False,True,False
-AL655,Social Media Marketing,ATHLONE IT,215.0,295.0,False,False,False,False,False
-AL657,Computing for Business,ATHLONE IT,230.0,375.0,False,False,False,False,False
-AL660,Culinary Arts,ATHLONE IT,255.0,350.0,False,False,False,False,False
-AL661,Bar Supervision,ATHLONE IT,195.0,250.0,False,False,False,False,False
-AL663,Business (Sport and Recreation),ATHLONE IT,230.0,295.0,False,False,False,False,False
-AL664,Applied Social Studies,ATHLONE IT,300.0,360.0,False,False,False,False,False
-AL701,Engineering Informatics (Electronics & Wireless/Networks/Com,ATHLONE IT,195.0,300.0,False,False,False,False,False
-AL710,Mechanical Engineering,ATHLONE IT,185.0,260.0,False,False,False,False,False
-AL711,Mechanical Engineering and Renewable Energy,ATHLONE IT,180.0,355.0,False,False,False,False,False
-AL712,Mechatronics,ATHLONE IT,180.0,315.0,False,False,False,False,False
-AL721,Civil Engineering,ATHLONE IT,110.0,285.0,False,False,False,False,False
-AL730,Biotechnology,ATHLONE IT,240.0,350.0,False,False,False,False,False
-AL731,Veterinary Nursing,ATHLONE IT,455.0,490.0,False,False,False,False,False
-AL733,Forensic Toxicology,ATHLONE IT,200.0,340.0,False,False,False,False,False
-AL734,Pharmaceutical Science (Drug Development and Analysis),ATHLONE IT,175.0,285.0,False,False,False,False,False
-AL750,Smart Technology for Business,ATHLONE IT,230.0,360.0,False,False,False,False,False
-AL760,Spa and Wellness Management,ATHLONE IT,210.0,280.0,False,False,False,False,False
-AL761,Hotel and Leisure Management,ATHLONE IT,180.0,265.0,False,False,False,False,False
-AL763,Graphic Design,ATHLONE IT,805.0,960.0,False,True,False,False,False
-AL764,Early Years Care and Education,ATHLONE IT,280.0,360.0,False,False,False,False,False
+AL601,Electronics and Computer Engineering,,185.0,290.0,False,False,False,False,False
+AL602,Mechanical Engineering,,180.0,255.0,False,False,False,False,False
+AL604,Civil Engineering,,95.0,250.0,False,False,False,False,False
+AL630,Pharmacy Technician,,320.0,390.0,False,False,False,False,False
+AL631,Dental Nursing,,265.0,335.0,False,False,False,False,False
+AL632,Science (Bioscience/Chemistry),,120.0,285.0,False,False,False,False,False
+AL650,Business,,185.0,330.0,False,False,False,False,False
+AL651,Music and Instrument Technology,,200.0,305.0,False,False,False,False,False
+AL652,Business in Equine Studies,,,290.0,False,False,False,True,False
+AL653,Office Management,,115.0,310.0,False,False,False,False,False
+AL654,Accounting Technician,,,220.0,False,False,False,True,False
+AL655,Social Media Marketing,,215.0,295.0,False,False,False,False,False
+AL657,Computing for Business,,230.0,375.0,False,False,False,False,False
+AL660,Culinary Arts,,255.0,350.0,False,False,False,False,False
+AL661,Bar Supervision,,195.0,250.0,False,False,False,False,False
+AL663,Business (Sport and Recreation),,230.0,295.0,False,False,False,False,False
+AL664,Applied Social Studies,,300.0,360.0,False,False,False,False,False
+AL701,Engineering Informatics (Electronics & Wireless/Networks/Com,,195.0,300.0,False,False,False,False,False
+AL710,Mechanical Engineering,,185.0,260.0,False,False,False,False,False
+AL711,Mechanical Engineering and Renewable Energy,,180.0,355.0,False,False,False,False,False
+AL712,Mechatronics,,180.0,315.0,False,False,False,False,False
+AL721,Civil Engineering,,110.0,285.0,False,False,False,False,False
+AL730,Biotechnology,,240.0,350.0,False,False,False,False,False
+AL731,Veterinary Nursing,,455.0,490.0,False,False,False,False,False
+AL733,Forensic Toxicology,,200.0,340.0,False,False,False,False,False
+AL734,Pharmaceutical Science (Drug Development and Analysis),,175.0,285.0,False,False,False,False,False
+AL750,Smart Technology for Business,,230.0,360.0,False,False,False,False,False
+AL760,Spa and Wellness Management,,210.0,280.0,False,False,False,False,False
+AL761,Hotel and Leisure Management,,180.0,265.0,False,False,False,False,False
+AL763,Graphic Design,,805.0,960.0,False,True,False,False,False
+AL764,Early Years Care and Education,,280.0,360.0,False,False,False,False,False
 PC402,Humanities,CARLOW COLLEGE,210.0,355.0,False,False,False,False,False
 PC404,Applied Social Studies in Social Care,CARLOW COLLEGE,210.0,260.0,False,False,False,False,False
 CW006,Business Studies (Wexford),IT CARLOW,200.0,250.0,False,False,False,False,False

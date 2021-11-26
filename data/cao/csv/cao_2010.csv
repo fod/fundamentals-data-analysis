@@ -880,3 +880,400 @@ AL047,Computer Network Administration,ATHLONE IT,130.0,225.0,False,False,False,F
 AL048,Mechanical Engineering and Renewable Energies,ATHLONE IT,290.0,350.0,False,False,False,False,False
 PC402,Humanities,CARLOW COLLEGE,240.0,340.0,False,False,False,False,False
 PC404,Applied Social Studies in Social Care,CARLOW COLLEGE,275.0,300.0,False,False,False,False,False
+CW006,Business Studies (Wexford),IT CARLOW,210.0,255.0,False,False,False,False,False
+CW007,Architectural Technology (Wexford),IT CARLOW,240.0,300.0,False,False,False,False,False
+CW017,Applied Social Studies - Social Care (Wexford),IT CARLOW,305.0,330.0,False,False,False,False,False
+CW027,Art (Wexford),IT CARLOW,700.0,700.0,False,False,False,False,False
+CW037,Business (Wexford),IT CARLOW,220.0,270.0,False,False,False,False,False
+CW106,Physiology and Health Science,IT CARLOW,405.0,460.0,False,False,False,False,False
+CW107,Analytical and Forensic Science,IT CARLOW,315.0,385.0,False,False,False,False,False
+CW116,Pharmacy Technician Studies,IT CARLOW,295.0,340.0,False,False,False,False,False
+CW117,Biosciences,IT CARLOW,275.0,335.0,False,False,False,False,False
+CW126,Science - Applied Biology or Applied Chemistry,IT CARLOW,240.0,360.0,False,False,False,False,False
+CW206,Computing,IT CARLOW,215.0,280.0,False,False,False,False,False
+CW207,Software Development,IT CARLOW,250.0,310.0,False,False,False,False,False
+CW217,Computer Systems Management,IT CARLOW,235.0,315.0,False,False,False,False,False
+CW406,Civil Engineering,IT CARLOW,210.0,240.0,False,False,False,False,False
+CW407,Architectural Technology,IT CARLOW,260.0,325.0,False,False,False,False,False
+CW416,Construction Studies,IT CARLOW,200.0,230.0,False,False,False,False,False
+CW417,Construction - Buildings and Services Management,IT CARLOW,240.0,285.0,False,False,False,False,False
+CW427,Civil Engineering,IT CARLOW,255.0,295.0,False,False,False,False,False
+CW507,Aircraft Systems,IT CARLOW,300.0,360.0,False,False,False,False,False
+CW517,Mechanical Engineering,IT CARLOW,260.0,320.0,False,False,False,False,False
+CW527,Electronic Engineering,IT CARLOW,205.0,260.0,False,False,False,False,False
+CW547,TV and Media Production,IT CARLOW,345.0,405.0,False,False,False,False,False
+CW706,Legal Studies,IT CARLOW,285.0,330.0,False,False,False,False,False
+CW707,Design in Industrial Design,IT CARLOW,205.0,275.0,False,False,False,False,False
+CW717,Applied Social Studies - Social Care,IT CARLOW,325.0,350.0,False,False,False,False,False
+CW806,Accounting,IT CARLOW,225.0,335.0,False,False,False,False,False
+CW807,Sport and Exercise (GAA),IT CARLOW,700.0,700.0,False,False,False,False,False
+CW906,Business Studies,IT CARLOW,230.0,275.0,False,False,False,False,False
+CW907,Sport and Exercise (Rugby),IT CARLOW,700.0,700.0,False,False,False,False,False
+CW916,Business - Office Management,IT CARLOW,220.0,270.0,False,False,False,False,False
+CW917,Business,IT CARLOW,240.0,300.0,False,False,False,False,False
+CW926,Business with Law,IT CARLOW,260.0,350.0,False,False,False,False,False
+CW927,Sport and Exercise (Soccer),IT CARLOW,700.0,700.0,False,False,False,False,False
+CR001,Applied Physics and Instrumentation,CORK IT,255.0,405.0,False,False,False,False,False
+CR006,Applied Biosciences,CORK IT,285.0,395.0,False,False,False,False,False
+CR007,Analytical and Pharmaceutical Chemistry,CORK IT,225.0,410.0,False,False,False,False,False
+CR010,Agriculture,CORK IT,210.0,330.0,False,False,False,False,False
+CR011,Horticulture,CORK IT,185.0,265.0,False,False,False,False,False
+CR016,Computing,CORK IT,290.0,345.0,False,False,False,False,False
+CR021,Business Studies,CORK IT,280.0,380.0,False,False,False,False,False
+CR022,Business Administration,CORK IT,265.0,300.0,False,False,False,False,False
+CR023,Accounting,CORK IT,325.0,455.0,False,False,False,False,False
+CR031,Social Care,CORK IT,380.0,420.0,False,False,False,False,False
+CR032,Recreation and Leisure,CORK IT,350.0,395.0,False,False,True,False,False
+CR036,Design Communication,CORK IT,650.0,820.0,False,False,False,False,False
+CR041,Tourism,CORK IT,270.0,335.0,False,False,False,False,False
+CR042,Hospitality Management,CORK IT,250.0,305.0,False,False,False,False,False
+CR046,Transport Management and Technology (Automobile Tech,CORK IT,215.0,260.0,False,False,False,False,False
+CR051,Civil Engineering,CORK IT,240.0,375.0,False,False,False,False,False
+CR052,Construction,CORK IT,220.0,295.0,False,False,False,False,False
+CR053,Interior Architecture,CORK IT,260.0,350.0,False,False,False,False,False
+CR061,Electronic Engineering,CORK IT,260.0,370.0,False,False,False,False,False
+CR062,Electrical Engineering,CORK IT,275.0,330.0,False,False,False,False,False
+CR071,Mechanical Engineering,CORK IT,310.0,385.0,False,False,False,False,False
+CR072,Building Services Engineering,CORK IT,215.0,250.0,False,False,False,False,False
+CR075,Biomedical Engineering,CORK IT,290.0,435.0,False,False,False,False,False
+CR090,Architectural Technology,CORK IT,335.0,420.0,False,False,False,False,False
+CR094,Nautical Science at National Maritime College of Ireland,CORK IT,290.0,365.0,False,False,False,False,False
+CR095,Marine Engineering at National Maritime College of Ireland,CORK IT,290.0,365.0,False,False,False,False,False
+CR300,Science (Common entry),CORK IT,300.0,430.0,False,False,False,False,False
+CR620,Early Childhood Care and Education,CORK IT,365.0,425.0,False,False,False,False,False
+CR640,Culinary Arts,CORK IT,305.0,380.0,False,False,False,False,False
+CR650,Bar Management,CORK IT,260.0,315.0,False,False,False,False,False
+CR655,Culinary Studies,CORK IT,180.0,265.0,False,False,False,False,False
+CR657,Hospitality Studies,CORK IT,110.0,195.0,False,False,False,False,False
+CR888,Information Technology Support,CORK IT,255.0,300.0,False,False,False,False,False
+DB513,Business,DUBLIN BUSINESS SCHOOL,125.0,215.0,False,False,False,False,False
+DB522,Business in Accounting,DUBLIN BUSINESS SCHOOL,115.0,400.0,False,False,False,False,False
+DB533,Business in Marketing,DUBLIN BUSINESS SCHOOL,105.0,240.0,False,False,False,False,False
+DB563,Cultural Studies,DUBLIN BUSINESS SCHOOL,115.0,280.0,False,False,False,False,False
+DB571,Business Studies,DUBLIN BUSINESS SCHOOL,125.0,270.0,False,False,False,False,False
+DB572,Business in Accounting,DUBLIN BUSINESS SCHOOL,115.0,290.0,False,False,False,False,False
+DB573,Business in Marketing,DUBLIN BUSINESS SCHOOL,,255.0,False,False,False,True,False
+DB574,Business in Information Technology,DUBLIN BUSINESS SCHOOL,,205.0,False,False,False,True,False
+DB575,Social Studies,DUBLIN BUSINESS SCHOOL,,280.0,False,False,False,True,False
+DB576,Film and Media,DUBLIN BUSINESS SCHOOL,,270.0,False,False,False,True,False
+DB578,Journalism and Media Studies,DUBLIN BUSINESS SCHOOL,,335.0,False,False,False,True,False
+DB580,Legal Studies,DUBLIN BUSINESS SCHOOL,,210.0,False,False,False,True,False
+DB581,Legal and Business Studies,DUBLIN BUSINESS SCHOOL,125.0,195.0,False,False,False,False,False
+DB582,Legal Studies,DUBLIN BUSINESS SCHOOL,,240.0,False,False,False,True,False
+DB583,Legal and Business Studies,DUBLIN BUSINESS SCHOOL,135.0,360.0,False,False,False,False,False
+DT002,Engineering Systems Maintenance,DUBLIN INSTITUTE of TECHNOLOGY,240.0,305.0,False,False,False,False,False
+DT003,Automation Engineering,DUBLIN INSTITUTE of TECHNOLOGY,285.0,335.0,False,False,False,False,False
+DT004,Civil Engineering,DUBLIN INSTITUTE of TECHNOLOGY,320.0,405.0,False,False,False,False,False
+DT005,Building Services Engineering,DUBLIN INSTITUTE of TECHNOLOGY,200.0,270.0,False,False,False,False,False
+DT006,Mechanical Engineering,DUBLIN INSTITUTE of TECHNOLOGY,305.0,395.0,False,False,False,False,False
+DT007,Automotive Management and Technology,DUBLIN INSTITUTE of TECHNOLOGY,270.0,315.0,False,False,False,False,False
+DT008,Electronics and Communications Engineering,DUBLIN INSTITUTE of TECHNOLOGY,225.0,340.0,False,False,False,False,False
+DT009,Electrical and Control Engineering  - Common First Year,DUBLIN INSTITUTE of TECHNOLOGY,275.0,360.0,False,False,False,False,False
+DT010,Electrical Services Engineering,DUBLIN INSTITUTE of TECHNOLOGY,230.0,305.0,False,False,False,False,False
+DT020,Preliminary Engineering,DUBLIN INSTITUTE of TECHNOLOGY,280.0,410.0,False,False,False,False,False
+DT089,Network Technologies,DUBLIN INSTITUTE of TECHNOLOGY,200.0,275.0,False,False,False,False,False
+DT104,"Auctioneering, Valuation and Estate Agency",DUBLIN INSTITUTE of TECHNOLOGY,230.0,320.0,False,False,False,False,False
+DT212,Science - Common 1st Year,DUBLIN INSTITUTE of TECHNOLOGY,320.0,435.0,False,False,False,False,False
+DT259,Biosciences,DUBLIN INSTITUTE of TECHNOLOGY,320.0,425.0,False,False,False,False,False
+DT260,Industrial and Environmental Physics,DUBLIN INSTITUTE of TECHNOLOGY,240.0,380.0,False,False,False,False,False
+DT261,Medicinal Chemistry and Pharmaceutical Sciences,DUBLIN INSTITUTE of TECHNOLOGY,320.0,450.0,False,False,False,False,False
+DT303,Marketing,DUBLIN INSTITUTE of TECHNOLOGY,310.0,385.0,False,False,False,False,False
+DT315,Business Studies,DUBLIN INSTITUTE of TECHNOLOGY,310.0,395.0,False,False,False,False,False
+DT324,Business Management,DUBLIN INSTITUTE of TECHNOLOGY,335.0,395.0,False,False,False,False,False
+DT360,Retail Management and Marketing,DUBLIN INSTITUTE of TECHNOLOGY,300.0,335.0,False,False,False,False,False
+DT406,Tourism Management,DUBLIN INSTITUTE of TECHNOLOGY,250.0,330.0,False,False,False,False,False
+DT408,Hospitality Management,DUBLIN INSTITUTE of TECHNOLOGY,285.0,340.0,False,False,False,False,False
+DT411,Leisure Management,DUBLIN INSTITUTE of TECHNOLOGY,310.0,355.0,False,False,False,False,False
+DT418,Baking and Pastry Arts Management,DUBLIN INSTITUTE of TECHNOLOGY,275.0,390.0,False,False,False,False,False
+DT424,Food Science and Management,DUBLIN INSTITUTE of TECHNOLOGY,210.0,340.0,False,False,False,False,False
+DT425,Pharmacy Technician Studies,DUBLIN INSTITUTE of TECHNOLOGY,340.0,390.0,False,False,False,False,False
+DT432,Culinary Arts (Professional Culinary Practice),DUBLIN INSTITUTE of TECHNOLOGY,240.0,345.0,False,False,False,False,False
+DT444,Health and Nutrition for Culinary Arts,DUBLIN INSTITUTE of TECHNOLOGY,230.0,335.0,False,False,False,False,False
+DT515,Design - Display,DUBLIN INSTITUTE of TECHNOLOGY,430.0,640.0,False,False,False,False,False
+DT527,Music Foundation,DUBLIN INSTITUTE of TECHNOLOGY,310.0,448.0,False,False,False,False,False
+DL131,Computing in Multimedia Programming,DUN LAOGHAIRE IADT,310.0,390.0,False,False,False,False,False
+DL133,Audio Visual Media Technology,DUN LAOGHAIRE IADT,285.0,370.0,False,False,False,False,False
+DL231,Business Studies - Enterprise,DUN LAOGHAIRE IADT,270.0,325.0,False,False,False,False,False
+GF001,Business,GRAFTON COLLEGE of MANAGEMENT SCIENCES,,260.0,False,False,False,True,False
+GC210,Marketing (Cork),GRIFFITH COLLEGE DUBLIN and CORK,,260.0,False,False,False,True,False
+GC211,Business (Cork),GRIFFITH COLLEGE DUBLIN and CORK,,245.0,False,False,False,True,False
+GC216,Business (Cork),GRIFFITH COLLEGE DUBLIN and CORK,,265.0,False,False,False,True,False
+GC265,Journalism (Cork),GRIFFITH COLLEGE DUBLIN and CORK,,305.0,False,False,False,True,False
+GC416,Business (Dublin),GRIFFITH COLLEGE DUBLIN and CORK,,225.0,False,False,False,True,False
+GC435,Computing (Dublin),GRIFFITH COLLEGE DUBLIN and CORK,,220.0,False,False,False,True,False
+GC440,Computing (Dublin),GRIFFITH COLLEGE DUBLIN and CORK,,200.0,False,False,False,True,False
+GC465,Journalism (Dublin),GRIFFITH COLLEGE DUBLIN and CORK,,305.0,False,False,False,True,False
+GC470,Photographic Media (Dublin),GRIFFITH COLLEGE DUBLIN and CORK,,270.0,False,False,False,True,False
+GC490,Interior Design (Dublin),GRIFFITH COLLEGE DUBLIN and CORK,,270.0,False,False,False,True,False
+GC495,Fashion Design (Dublin),GRIFFITH COLLEGE DUBLIN and CORK,275.0,425.0,False,True,False,False,False
+BY001,Business,GRIFFITH COLLEGE DUBLIN and CORK,,205.0,False,False,False,True,False
+BY051,Business,GRIFFITH COLLEGE DUBLIN and CORK,,205.0,False,False,False,True,False
+BN001,Engineering (Electronics and Computer Engineering),IT BLANCHARDSTOWN,180.0,225.0,False,False,False,False,False
+BN002,Computing (Information Technology),IT BLANCHARDSTOWN,185.0,220.0,False,False,False,False,False
+BN003,Business,IT BLANCHARDSTOWN,180.0,250.0,False,False,False,False,False
+BN009,Engineering (Mechatronics),IT BLANCHARDSTOWN,180.0,230.0,False,False,False,False,False
+BN010,Business and Information Technology,IT BLANCHARDSTOWN,185.0,255.0,False,False,False,False,False
+BN011,Applied Social Studies in Social Care,IT BLANCHARDSTOWN,345.0,385.0,False,False,False,False,False
+BN012,Engineering (Computer Engineering),IT BLANCHARDSTOWN,180.0,285.0,False,False,False,False,False
+BN013,Computing (Information Technology),IT BLANCHARDSTOWN,180.0,260.0,False,False,False,False,False
+BN014,Business,IT BLANCHARDSTOWN,180.0,270.0,False,False,False,False,False
+BN015,Engineering,IT BLANCHARDSTOWN,,245.0,False,False,False,True,True
+BN016,Business,IT BLANCHARDSTOWN,180.0,260.0,False,False,False,False,False
+BN017,International Business,IT BLANCHARDSTOWN,185.0,330.0,False,False,False,False,False
+BN020,Sports Management and Coaching,IT BLANCHARDSTOWN,345.0,400.0,False,False,False,False,False
+BN021,Creative Digital Media,IT BLANCHARDSTOWN,305.0,375.0,False,False,False,False,False
+BN022,Horticulture,IT BLANCHARDSTOWN,250.0,315.0,False,False,False,False,False
+BN025,Social and Community Development,IT BLANCHARDSTOWN,320.0,350.0,False,False,False,False,False
+BN030,Early Childhood Care and Education,IT BLANCHARDSTOWN,350.0,405.0,False,False,False,False,False
+BN039,Engineering (Sustainable Electrical Control Technology),IT BLANCHARDSTOWN,125.0,255.0,False,False,False,False,True
+TA006,Culinary Arts,IT TALLAGHT,230.0,280.0,False,False,False,False,False
+TA015,International Hospitality and Tourism Management,IT TALLAGHT,210.0,265.0,False,False,False,False,False
+TA101,Accounting,IT TALLAGHT,225.0,315.0,False,False,False,False,False
+TA102,Business Administration,IT TALLAGHT,245.0,300.0,False,False,False,False,False
+TA103,Marketing,IT TALLAGHT,240.0,290.0,False,False,False,False,False
+TA111,Accounting,IT TALLAGHT,225.0,305.0,False,False,False,False,False
+TA113,Management,IT TALLAGHT,245.0,300.0,False,False,False,False,False
+TA114,Marketing,IT TALLAGHT,240.0,300.0,False,False,False,False,False
+TA201,Electronic Engineering,IT TALLAGHT,100.0,225.0,False,False,False,False,True
+TA202,Electro-Mechanical Engineering,IT TALLAGHT,,200.0,False,False,False,True,False
+TA203,Mechanical Engineering,IT TALLAGHT,130.0,210.0,False,False,False,False,False
+TA213,Mechanical Engineering,IT TALLAGHT,250.0,295.0,False,False,False,False,False
+TA215,Energy and Environmental Engineering,IT TALLAGHT,280.0,345.0,False,False,False,False,False
+TA216,Electronic Engineering,IT TALLAGHT,200.0,295.0,False,False,False,False,False
+TA301,Applied Biology or Applied Chemistry,IT TALLAGHT,300.0,345.0,False,False,False,False,False
+TA302,Computing,IT TALLAGHT,255.0,290.0,False,False,False,False,False
+TA312,Computing,IT TALLAGHT,255.0,320.0,False,False,False,False,False
+TA313,Information Technology Management,IT TALLAGHT,255.0,305.0,False,False,False,False,False
+TA314,Pharmaceutical Science,IT TALLAGHT,310.0,375.0,False,False,False,False,False
+TA315,DNA and Forensic Science,IT TALLAGHT,350.0,410.0,False,False,False,False,False
+TA316,Sports Science and Health,IT TALLAGHT,355.0,395.0,False,False,False,False,False
+NC008,Management of Technology in Business,NATIONAL COLLEGE OF IRELAND,250.0,310.0,False,False,False,False,False
+NC018,Management of Technology in Business - Area Based Par,NATIONAL COLLEGE OF IRELAND,240.0,250.0,False,False,False,False,False
+NC102,Computing in Applications and Support,NATIONAL COLLEGE OF IRELAND,200.0,255.0,False,False,False,False,False
+NC103,Business,NATIONAL COLLEGE OF IRELAND,290.0,325.0,False,False,False,False,False
+NC202,Computing in Applications and Support - Area Based Part,NATIONAL COLLEGE OF IRELAND,260.0,260.0,False,False,False,False,False
+NC203,Business - Area Based Partnership Applicants,NATIONAL COLLEGE OF IRELAND,240.0,285.0,False,False,False,False,False
+TR801,Dental Nursing,TRINITY COLLEGE DUBLIN,355.0,415.0,False,False,True,False,False
+TR802,Dental Hygiene,TRINITY COLLEGE DUBLIN,440.0,515.0,False,True,True,False,False
+TR803,Dental Technology,TRINITY COLLEGE DUBLIN,360.0,470.0,False,True,False,False,False
+DK650,Culinary Arts,DUNDALK IT,155.0,235.0,False,False,False,False,False
+DK685,Agriculture,DUNDALK IT,255.0,345.0,False,False,False,False,False
+DK710,Business Studies - Management and Administration,DUNDALK IT,105.0,280.0,False,False,False,False,True
+DK711,Business and Information Systems,DUNDALK IT,170.0,260.0,False,False,False,False,False
+DK721,Computing (incorporating 3 award options),DUNDALK IT,150.0,275.0,False,False,False,False,True
+DK740,Engineering - Electrical and Electronic Systems,DUNDALK IT,240.0,310.0,False,False,False,False,False
+DK742,Engineering - Mechanical Engineering,DUNDALK IT,255.0,320.0,False,False,False,False,False
+DK744,Engineering - Civil Engineering,DUNDALK IT,175.0,310.0,False,False,False,False,False
+DK745,Construction Technology,DUNDALK IT,130.0,265.0,False,False,False,False,True
+DK750,Business - Hospitality Management,DUNDALK IT,230.0,280.0,False,False,False,False,False
+DK752,Business - Event Management,DUNDALK IT,265.0,320.0,False,False,True,False,False
+DK762,Communications in Creative Multimedia,DUNDALK IT,280.0,365.0,False,False,True,False,False
+DK763,Community Sports Leadership,DUNDALK IT,300.0,350.0,False,False,False,False,False
+DK765,Video and Film,DUNDALK IT,290.0,365.0,False,False,False,False,False
+DK767,Community Youth Work,DUNDALK IT,285.0,335.0,False,False,False,False,False
+DK781,Science - Applied Bioscience,DUNDALK IT,165.0,330.0,False,False,False,False,True
+DK783,Science - Pharmaceutical Science,DUNDALK IT,250.0,315.0,False,False,False,False,False
+DK784,Veterinary Nursing,DUNDALK IT,330.0,380.0,False,False,False,False,False
+GA170,Business,GALWAY-MAYO IT,290.0,370.0,False,False,False,False,False
+GA171,Administration and Information Systems,GALWAY-MAYO IT,235.0,283.0,False,False,False,False,False
+GA172,Rural Enterprise and Agri-Business (Year 1 at Mountbelle,GALWAY-MAYO IT,260.0,325.0,False,False,False,False,False
+GA173,Gnó agus Cumarsáid,GALWAY-MAYO IT,165.0,360.0,False,False,False,False,False
+GA270,Art and Design,GALWAY-MAYO IT,427.0,759.0,False,False,False,False,False
+GA271,Film and Television,GALWAY-MAYO IT,650.0,780.0,False,False,False,False,False
+GA272,Heritage Studies,GALWAY-MAYO IT,220.0,325.0,False,False,False,False,False
+GA360,Tourism,GALWAY-MAYO IT,150.0,250.0,False,False,False,False,False
+GA361,Culinary Arts,GALWAY-MAYO IT,140.0,240.0,False,False,False,False,False
+GA362,Hospitality Studies,GALWAY-MAYO IT,140.0,225.0,False,False,False,False,False
+GA363,Bar Supervision,GALWAY-MAYO IT,140.0,190.0,False,False,False,False,False
+GA370,Hotel and Catering Management,GALWAY-MAYO IT,200.0,275.0,False,False,False,False,False
+GA372,Culinary Arts,GALWAY-MAYO IT,260.0,315.0,False,False,False,False,False
+GA373,Bar Management,GALWAY-MAYO IT,200.0,255.0,False,False,False,False,False
+GA374,Tourism Management,GALWAY-MAYO IT,190.0,265.0,False,False,False,False,False
+GA375,Retail and Customer Service Management,GALWAY-MAYO IT,180.0,265.0,False,False,False,False,False
+GA376,Event Management,GALWAY-MAYO IT,310.0,370.0,False,False,False,False,False
+GA470,Construction Management,GALWAY-MAYO IT,240.0,310.0,False,False,False,False,False
+GA471,Construction Economics and Quantity Surveying,GALWAY-MAYO IT,190.0,300.0,False,False,False,False,False
+GA472,Architectural Technology,GALWAY-MAYO IT,280.0,365.0,False,False,False,False,False
+GA473,Civil Engineering,GALWAY-MAYO IT,265.0,360.0,False,False,False,False,False
+GA570,Computer and Electronic Engineering,GALWAY-MAYO IT,230.0,310.0,False,False,False,False,False
+GA572,Computer and Energy Systems,GALWAY-MAYO IT,230.0,325.0,False,False,False,False,False
+GA670,Mechanical Engineering,GALWAY-MAYO IT,320.0,385.0,False,False,False,False,False
+GA673,Energy Engineering,GALWAY-MAYO IT,380.0,420.0,False,False,False,False,False
+GA770,Applied Freshwater and Marine Biology,GALWAY-MAYO IT,330.0,405.0,False,False,False,False,False
+GA771,Applied Biology and Biopharmaceutical Science,GALWAY-MAYO IT,320.0,400.0,False,False,False,False,False
+GA772,Chemical and Pharmaceutical Science,GALWAY-MAYO IT,330.0,425.0,False,False,False,False,False
+GA773,Physics and Instrumentation,GALWAY-MAYO IT,280.0,350.0,False,False,False,False,False
+GA774,Science (Undenominated),GALWAY-MAYO IT,320.0,415.0,False,False,False,False,False
+GA775,Computing in Software Development,GALWAY-MAYO IT,230.0,315.0,False,False,False,False,False
+GA776,Business Computing and Digital Media,GALWAY-MAYO IT,260.0,310.0,False,False,False,False,False
+GA777,Agriculture and Environmental Management  (at Mountbell,GALWAY-MAYO IT,330.0,375.0,False,False,False,False,False
+GA869,Business in Computer Applications (at Castlebar),GALWAY-MAYO IT,140.0,195.0,False,False,False,False,False
+GA870,Outdoor Education and Leisure (at Castlebar),GALWAY-MAYO IT,265.0,340.0,False,False,False,False,False
+GA872,Heritage Studies (at Castlebar),GALWAY-MAYO IT,140.0,215.0,False,False,False,False,False
+GA874,Outdoor Education and Leisure with Geography (at Castle,GALWAY-MAYO IT,265.0,335.0,False,False,False,False,False
+GA875,Construction Mgmt in Refurbishment & Maintenance (Cast,GALWAY-MAYO IT,145.0,225.0,False,False,False,False,False
+GA877,Business (at Castlebar),GALWAY-MAYO IT,140.0,255.0,False,False,False,False,False
+GA878,Accounting and Financial Management (at Castlebar),GALWAY-MAYO IT,140.0,300.0,False,False,False,False,False
+GA879,Applied Social Studies (at Castlebar),GALWAY-MAYO IT,330.0,360.0,False,False,False,False,False
+GA970,Furniture Design and Manufacture (at Letterfrack),GALWAY-MAYO IT,355.0,400.0,False,False,False,False,False
+GA971,Furniture and Wood Technology (at Letterfrack),GALWAY-MAYO IT,380.0,405.0,False,False,False,False,False
+LY107,"Business - Specialisms in Accounting, Management and",LETTERKENNY IT,140.0,300.0,False,False,False,False,False
+LY117,Administrative Management,LETTERKENNY IT,,200.0,False,False,False,True,False
+LY137,Sports Development and Coaching,LETTERKENNY IT,295.0,330.0,False,False,False,False,False
+LY207,Law,LETTERKENNY IT,145.0,305.0,False,False,False,False,False
+LY217,Languages and International Business,LETTERKENNY IT,220.0,385.0,False,False,False,False,False
+LY306,Front Office Management at Killybegs,LETTERKENNY IT,9990.0,,False,False,False,False,False
+LY307,International Tourism and Hospitality Enterprise at Killybeg,LETTERKENNY IT,115.0,235.0,False,False,False,False,False
+LY317,International Culinary Enterprise at Killybegs,LETTERKENNY IT,110.0,300.0,False,False,False,False,False
+LY336,Bar Supervision,LETTERKENNY IT,105.0,170.0,False,False,False,False,False
+LY346,Culinary Arts,LETTERKENNY IT,,200.0,False,False,False,True,False
+LY407,Graphic Design,LETTERKENNY IT,140.0,295.0,False,False,False,False,False
+LY417,Product Design,LETTERKENNY IT,120.0,280.0,False,False,False,False,False
+LY427,Creative Digital Media,LETTERKENNY IT,210.0,265.0,False,False,False,False,False
+LY507,Quantity Surveying,LETTERKENNY IT,135.0,265.0,False,False,False,False,False
+LY517,"Building Energy, Services and Design",LETTERKENNY IT,115.0,235.0,False,False,False,False,False
+LY527,Civil Engineering,LETTERKENNY IT,,235.0,False,False,False,True,False
+LY537,Construction and Fire Technology,LETTERKENNY IT,130.0,245.0,False,False,False,False,False
+LY547,Architectural Technology,LETTERKENNY IT,120.0,275.0,False,False,False,False,False
+LY607,Electronic Engineering,LETTERKENNY IT,,240.0,False,False,False,True,False
+LY617,Mechanical Engineering,LETTERKENNY IT,205.0,305.0,False,False,False,False,False
+LY627,Computer Engineering,LETTERKENNY IT,,255.0,False,False,False,True,False
+LY707,Computer Games Development,LETTERKENNY IT,140.0,270.0,False,False,False,False,False
+LY737,Computer Security and Digital Forensics,LETTERKENNY IT,155.0,265.0,False,False,False,False,False
+LY747,Computing Multimedia and Digital Entertainment Technolo,LETTERKENNY IT,,230.0,False,False,False,True,False
+LY806,Pharmacy Technician,LETTERKENNY IT,105.0,270.0,False,False,False,False,False
+LY817,Bioscience,LETTERKENNY IT,220.0,340.0,False,False,False,False,False
+LY827,Analytical and Forensic Science,LETTERKENNY IT,200.0,305.0,False,False,False,False,False
+LY837,Food Science and Nutrition,LETTERKENNY IT,200.0,325.0,False,False,False,False,False
+LY847,Veterinary Nursing,LETTERKENNY IT,350.0,380.0,False,False,False,False,False
+LY907,"Early Childcare, Health and Education",LETTERKENNY IT,300.0,360.0,False,False,False,False,False
+LY917,Health & Social Studies,LETTERKENNY IT,300.0,325.0,False,False,True,False,False
+CI001,Counselling Studies and Psychometric Testing,NATIONAL COUNSELLING INSTITUTE of IRELAND,130.0,280.0,False,False,False,False,False
+CI002,Counselling Skills and Addiction Studies,NATIONAL COUNSELLING INSTITUTE of IRELAND,115.0,285.0,False,False,False,False,False
+CI005,Youth and Counselling Studies,NATIONAL COUNSELLING INSTITUTE of IRELAND,135.0,270.0,False,False,False,False,False
+LC211,Business (Accounting/Finance),LIMERICK IT,300.0,400.0,False,False,False,False,False
+LC221,Business (Marketing and Management),LIMERICK IT,280.0,355.0,False,False,False,False,False
+LC321,Business Computing,LIMERICK IT,200.0,250.0,False,False,False,False,False
+LC351,Internet Systems Development,LIMERICK IT,205.0,305.0,False,False,False,False,False
+LC371,eOffice Administration Systems,LIMERICK IT,200.0,245.0,False,False,False,False,False
+LC401,Construction (Health and Safety),LIMERICK IT,205.0,265.0,False,False,False,False,False
+LC411,Construction,LIMERICK IT,200.0,280.0,False,False,False,False,False
+LC431,Construction (Site Management),LIMERICK IT,230.0,290.0,False,False,False,False,False
+LC441,Civil Engineering,LIMERICK IT,260.0,385.0,False,False,False,False,False
+LC601,Applied Biology,LIMERICK IT,280.0,405.0,False,False,False,False,False
+LC641,Environmental and Chemical Analysis,LIMERICK IT,305.0,415.0,False,False,False,False,False
+LC671,Pharmaceutical and Forensic Analysis,LIMERICK IT,315.0,395.0,False,False,False,False,False
+LC701,Music Technology and Production,LIMERICK IT,370.0,425.0,False,False,False,False,False
+LC761,Technology (Video and Sound),LIMERICK IT,265.0,315.0,False,False,False,False,False
+LC771,Automation and Control Technology,LIMERICK IT,260.0,290.0,False,False,False,False,False
+LC781,Renewable and Electrical Energy Systems,LIMERICK IT,300.0,365.0,False,False,False,False,False
+LC791,Electronic Engineering,LIMERICK IT,230.0,335.0,False,False,False,False,False
+LC811,Technology (Automobile),LIMERICK IT,315.0,350.0,False,False,False,False,False
+LC821,Engineering (Mechanical and Manufacturing),LIMERICK IT,255.0,305.0,False,False,False,False,False
+LC841,Technology (Agricultural Mechanisation) at Salesian,LIMERICK IT,285.0,330.0,False,False,False,False,False
+LC851,Mechanical Engineering,LIMERICK IT,275.0,360.0,False,False,False,False,False
+LC861,Road Transport Technology and Management,LIMERICK IT,280.0,300.0,False,False,False,False,False
+LC961,Front Office Management,LIMERICK IT,250.0,290.0,False,False,False,False,False
+LC981,Culinary Arts,LIMERICK IT,200.0,275.0,False,False,False,False,False
+LC991,Hospitality Studies,LIMERICK IT,215.0,265.0,False,False,False,False,False
+LM180,Equine Science,UNIVERSITY OF LIMERICK,285.0,370.0,False,False,True,False,False
+SG101,Business,IT SLIGO,115.0,225.0,False,False,False,False,False
+SG105,Business in Office Administration,IT SLIGO,155.0,205.0,False,False,False,False,False
+SG108,Business in Accounting,IT SLIGO,120.0,270.0,False,False,False,False,False
+SG131,Computing - Games Development,IT SLIGO,300.0,350.0,False,False,False,False,False
+SG134,Recreation and Leisure,IT SLIGO,280.0,310.0,False,False,False,False,False
+SG135,Business in Tourism,IT SLIGO,140.0,240.0,False,False,False,False,False
+SG136,Computing - Software Development,IT SLIGO,200.0,255.0,False,False,False,False,False
+SG137,Computing - Systems and Networking,IT SLIGO,200.0,300.0,False,False,False,False,False
+SG138,Computing - Database Management,IT SLIGO,205.0,300.0,False,False,False,False,False
+SG139,Financial Services,IT SLIGO,165.0,245.0,False,False,False,False,False
+SG231,Fine Art,IT SLIGO,560.0,770.0,False,False,False,False,False
+SG232,Creative Design and Innovation,IT SLIGO,260.0,320.0,False,False,False,False,False
+SG233,Applied Social Studies in Social Care,IT SLIGO,335.0,385.0,False,False,False,False,False
+SG332,Engineering Management,IT SLIGO,,,False,False,False,False,False
+SG333,Mechanical Engineering,IT SLIGO,200.0,285.0,False,False,False,False,False
+SG334,Mechatronics,IT SLIGO,205.0,285.0,False,False,False,False,False
+SG336,Interior Architecture,IT SLIGO,175.0,285.0,False,False,False,False,False
+SG337,Electronic Engineering,IT SLIGO,170.0,205.0,False,False,False,False,False
+SG338,Civil Engineering,IT SLIGO,230.0,325.0,False,False,False,False,False
+SG339,Quantity Surveying,IT SLIGO,170.0,275.0,False,False,False,False,False
+SG401,Science,IT SLIGO,,260.0,False,False,False,True,False
+SG402,Fisheries Management,IT SLIGO,,205.0,False,False,False,True,False
+SG431,Pharmaceutical Science,IT SLIGO,255.0,310.0,False,False,False,False,False
+SG432,Environmental Protection,IT SLIGO,235.0,300.0,False,False,False,False,False
+SG433,Occupational Safety and Health,IT SLIGO,265.0,315.0,False,False,False,False,False
+SG435,Health Science and Physiology,IT SLIGO,360.0,415.0,False,False,False,False,False
+SG436,Biomedical Science,IT SLIGO,240.0,365.0,False,False,False,False,False
+SG437,Forensic Investigation and Analysis,IT SLIGO,315.0,380.0,False,False,False,False,False
+SG438,Applied Archaeology,IT SLIGO,220.0,355.0,False,False,False,False,False
+SG531,Marketing - P.R. with Events Management,IT SLIGO,160.0,280.0,False,False,False,False,False
+SG532,Marketing with Languages,IT SLIGO,160.0,315.0,False,False,False,False,False
+SG533,Marketing,IT SLIGO,140.0,300.0,False,False,False,False,False
+SG536,Management Practice,IT SLIGO,,,False,False,False,False,False
+SG538,Web Development and Creative Media,IT SLIGO,200.0,305.0,False,False,False,False,False
+TI001,Business,TIPPERARY INSTITUTE,125.0,245.0,False,False,False,False,False
+TI003,Computing,TIPPERARY INSTITUTE,125.0,220.0,False,False,False,False,False
+TI004,Computing - Smart Sustainable Energy,TIPPERARY INSTITUTE,210.0,275.0,False,False,False,False,False
+TI006,Computing (IT Support),TIPPERARY INSTITUTE,145.0,145.0,False,False,False,False,False
+TI009,Computing,TIPPERARY INSTITUTE,130.0,220.0,False,False,False,False,False
+TI016,Computing - IT Support,TIPPERARY INSTITUTE,140.0,230.0,False,False,False,False,False
+TI019,Business,TIPPERARY INSTITUTE,150.0,210.0,False,False,False,False,False
+TI101,Business (Clonmel),TIPPERARY INSTITUTE,170.0,225.0,False,False,False,False,False
+TI104,Information Technology - Creative Multimedia (Clonmel),TIPPERARY INSTITUTE,170.0,255.0,False,False,False,False,False
+TI105,Business and Office Management,TIPPERARY INSTITUTE,165.0,240.0,False,False,False,False,False
+TI111,Marketing,TIPPERARY INSTITUTE,125.0,205.0,False,False,False,False,False
+TI114,Information Technology - Creative Multimedia (Clonmel),TIPPERARY INSTITUTE,125.0,245.0,False,False,False,False,False
+TI119,Business (Clonmel),TIPPERARY INSTITUTE,125.0,280.0,False,False,False,False,False
+TL001,Culinary Arts,IT TRALEE,,260.0,False,False,False,True,False
+TL002,Hospitality Studies,IT TRALEE,,210.0,False,False,False,True,False
+TL003,Tourism,IT TRALEE,,,False,False,False,False,False
+TL004,Bar Supervision,IT TRALEE,,185.0,False,False,False,True,False
+TL165,Early Childhood Care and Education,IT TRALEE,320.0,365.0,False,False,False,False,False
+TL186,Travel and Tourism Management,IT TRALEE,225.0,310.0,False,False,False,False,False
+TL187,Adventure Tourism Management,IT TRALEE,220.0,285.0,False,False,False,False,False
+TL188,Hotel and Resort Management,IT TRALEE,,,False,False,False,False,False
+TL190,Applied Social Studies,IT TRALEE,365.0,385.0,False,False,False,False,False
+TL195,Youth and Community Work Practice,IT TRALEE,285.0,315.0,False,False,False,False,False
+TL210,Advanced Business Studies,IT TRALEE,,,False,False,False,False,False
+TL220,Business Studies,IT TRALEE,185.0,275.0,False,False,False,False,False
+TL315,Computing with Software Development,IT TRALEE,245.0,325.0,False,False,False,False,False
+TL325,Computing with Games Development,IT TRALEE,200.0,260.0,False,False,False,False,False
+TL350,Business Studies (Office Information Systems),IT TRALEE,200.0,275.0,False,False,False,False,False
+TL355,Computing with Multimedia,IT TRALEE,215.0,325.0,False,False,False,False,False
+TL356,Computing with interactive Web Development,IT TRALEE,,,False,False,False,False,False
+TL425,Pharmaceutical Analysis with Forensics,IT TRALEE,235.0,325.0,False,False,False,False,False
+TL426,Pharmaceutical Analysis with Environmental Science,IT TRALEE,215.0,310.0,False,False,False,False,False
+TL430,Science (Biological and Environmental Studies),IT TRALEE,240.0,325.0,False,False,False,False,False
+TL433,Pharmaceutical Analysis with Cosmetics,IT TRALEE,,,False,False,False,False,False
+TL481,Health and Leisure,IT TRALEE,340.0,395.0,False,False,False,False,False
+TL482,Health and Leisure with Massage,IT TRALEE,310.0,340.0,False,False,False,False,False
+TL600,Quantity Surveying,IT TRALEE,8888.0,,False,False,False,False,False
+TL610,Renewable Energy and Energy Management,IT TRALEE,285.0,330.0,False,False,False,False,False
+TL620,Engineering (Civil),IT TRALEE,,235.0,False,False,False,True,False
+TL630,Construction,IT TRALEE,,195.0,False,False,False,True,False
+TL650,Engineering (Agricultural),IT TRALEE,250.0,290.0,False,False,False,False,False
+TL670,Engineering (Mechanical),IT TRALEE,190.0,225.0,False,False,False,False,False
+TL690,Engineering (Mechanical and Electronic),IT TRALEE,230.0,310.0,False,False,False,False,False
+WD003,Business Studies,WATERFORD IT,210.0,295.0,False,False,False,False,False
+WD008,Science (Pharmaceutical Science or Applied Biology),WATERFORD IT,270.0,370.0,False,False,False,False,False
+WD009,Agricultural Science,WATERFORD IT,270.0,365.0,False,False,False,False,False
+WD010,Electronics Engineering,WATERFORD IT,220.0,310.0,False,False,False,False,False
+WD011,Mechanical Engineering,WATERFORD IT,225.0,290.0,False,False,False,False,False
+WD013,Legal Studies,WATERFORD IT,270.0,335.0,False,False,False,False,False
+WD018,Applied Social Studies in Social Care,WATERFORD IT,300.0,345.0,False,False,False,False,False
+WD019,Recreation and Sport Management,WATERFORD IT,325.0,360.0,False,False,False,False,False
+WD039,Hospitality Operations,WATERFORD IT,200.0,255.0,False,False,False,False,False
+WD040,Building Services Engineering,WATERFORD IT,205.0,245.0,False,False,False,False,False
+WD076,Forestry,WATERFORD IT,280.0,335.0,False,False,False,False,False
+WD094,Architectural Technology,WATERFORD IT,245.0,365.0,False,False,False,False,False
+WD096,Horticulture,WATERFORD IT,250.0,320.0,False,False,False,False,False
+WD098,Agriculture,WATERFORD IT,320.0,360.0,False,False,False,False,False
+WD139,Civil Engineering,WATERFORD IT,240.0,345.0,False,False,False,False,False
+WD151,Software Systems Development,WATERFORD IT,240.0,325.0,False,False,False,False,False
+WD153,Multimedia Applications Development,WATERFORD IT,235.0,305.0,False,False,False,False,False
+WD155,Information Technology,WATERFORD IT,255.0,340.0,False,False,False,False,False
+WD159,Business,WATERFORD IT,225.0,340.0,False,False,False,False,False
+WD164,Food Science with Business,WATERFORD IT,220.0,360.0,False,False,False,False,False
+WD172,Culinary Arts,WATERFORD IT,210.0,285.0,False,False,False,False,False
+WD173,Hospitality Studies,WATERFORD IT,200.0,255.0,False,False,False,False,False
+WD174,Tourism,WATERFORD IT,200.0,250.0,False,False,False,False,False
