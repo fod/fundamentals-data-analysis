@@ -1,3 +1,6 @@
+# misc
+.venv_old
+
 # Excel temp files
 *.xlsx#
 
