@@ -55,11 +55,12 @@ There are three ways to consume the notebooks in this repository:
 
     It is still possible to view and manipulate the full CAO dataset from within a Binder session using the CSV files in the [data/cao/csv](data/cao/csv/) directory.
 
-1. Clone the repository and run a Jupyter server locally by following these steps:
+1. Clone the repository and run a Jupyter server locally by following these steps (these steps have been tested on a Linux system, some details may differ if using a different operating system):
 
     - Ensure that [Python v3.9+](https://www.python.org/), [Pip](https://pypi.org/project/pip/), [git v.2+](https://git-scm.com/), and Java v7+  ([Oracle](https://www.java.com/en/download/) or [OpenJDK](https://openjdk.java.net/)) are all installed.
     - Clone the repository by typing git clone git@github.com:fod/fundamentals-data-analysis.git into a terminal.
     - The repository will be downloaded. When it is complete, enter the fundamentals-data-analysis directory and create a Python virtual environment in a directory called ```.venv``` with ```python -m venv .venv``` 
+    - Activate the virtual environment with ```source .venv/bin/activate```
     - Next install the required packages with ```pip install requirements.txt```
     - Finally, start a jupyter server by typing ```jupyter-lab```. A jupyter lab session should launch in a browser window. If it doesn't, a link which can be pasted into a browser address bar is printed in the terminal.
     
