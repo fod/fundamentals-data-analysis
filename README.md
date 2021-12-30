@@ -22,10 +22,21 @@ The rest of the contents of the repository all support those files in some way. 
 
 ## Requirements
 
-Nothing extra is required to view the contents of repository on [github](https://github.com/fod/fundamentals-data-analysis) or [nbviewer](https://nbviewer.org/) or  [binder](https://mybinder.org/)
-Java 7+ for tabula
+Nothing extra is required to view the contents of repository on [github](https://github.com/fod/fundamentals-data-analysis) or [nbviewer](https://nbviewer.org/) or [binder](https://mybinder.org/). However see [below](#how-to-run) for discussion of the limitations of these formats.
+
+To run these notebooks locally [Python v3.9+](https://www.python.org/) with [Pip](https://pypi.org/project/pip/) or some other package manager is the minimum requirement. In order to clone this repository - the easiest way to acquire the code - [git v.2+](https://git-scm.com/) is required. The [Java Runtime Environment (JRE) 7+](https://www.java.com/en/download/manual.jsp) or [OpenJDK 7+](https://openjdk.java.net/) is required for some pdf parsing functionality in the [CAO notebook](cao.ipynb).
+
+Assuming Python is installed then the Python packages listed in [requirements.txt](requirements.txt) are required. These can usually be installed in one go using the [requirements.txt](requirements.txt) file with pip or, presumably, any other Python package manager. See [below](#how-to-run) for details.
 
 ## How to run
+
+There are three ways to consume the notebooks in this repository:
+1. View here on github by simply clicking on [cao.ipynb](cao.ipynb) or [pyplot.ipynb](pyplot.ipynb), or on [nbviewer](https://nbviewer.org/) by clicking on the appropriate button:
+
+    - For the CAO notebook:&ensp;&ensp;&ensp;[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/fod/fundamentals-data-analysis/blob/main/cao.ipynb)
+
+    - For the pyplot notebook:&ensp;[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/fod/fundamentals-data-analysis/blob/main/pyplot.ipynb)
+
 
 ## CAO notebook
 
