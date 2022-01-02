@@ -30,7 +30,7 @@ The rest of the contents of the repository all support those files in some way. 
 
 ## Requirements
 
-Nothing extra is required to view the contents of repository on [github](https://github.com/fod/fundamentals-data-analysis) or [nbviewer](https://nbviewer.org/) or [binder](https://mybinder.org/). However see [below](#how-to-run) for discussion of the limitations of these formats.
+Nothing extra is required to view the contents of the repository on [github](https://github.com/fod/fundamentals-data-analysis) or [nbviewer](https://nbviewer.org/) or [binder](https://mybinder.org/). However see [below](#how-to-run) for discussion of the limitations of these formats.
 
 To run these notebooks locally [Python v3.9+](https://www.python.org/) with [Pip](https://pypi.org/project/pip/) or some other package manager is the minimum requirement. In order to clone this repository - the easiest way to acquire the code - [git v.2+](https://git-scm.com/) is required. The [Java Runtime Environment (JRE) 7+](https://www.java.com/en/download/manual.jsp) or [OpenJDK 7+](https://openjdk.java.net/) is required for some pdf parsing functionality in the [CAO notebook](cao.ipynb).
 
